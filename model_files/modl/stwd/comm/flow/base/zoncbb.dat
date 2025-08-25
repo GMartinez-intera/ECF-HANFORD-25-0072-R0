@@ -1,0 +1,24 @@
+* control data
+133 188 8                   NROW           NCOL      NLAY
+1 0                           NBUD           NHEAD
+bud1N                           OUTBASE
+0 0 100000                    IFLAGTIME      KPER1     KPER2
+1  0                          MODTYPE        FORM
+-99999.   -99999.             HNOFLO         HYDRY
+0  0                          NEIGHBOR_ONLY  ZONEDET
+0  1                          NORMAREA       FACTOR
+0  superzone.dat dummy        ISUPER          SUPERFILE SUPERBASE
+* budget files
+"P2Rv9.1.cbb"
+* zone files
+zones_dry.inf
+zones_dry.inf
+zones_dry.inf
+zones_dry.inf
+zones_dry.inf
+zones_dry.inf
+zones_dry.inf
+zones_dry.inf
+* grid dimension files
+delr.dat
+delc.dat

@@ -1,0 +1,50 @@
+{
+	"numRows": 133,
+	"numCol": 188,
+	"rowColumn": 0,
+	"columnColumn": 1,
+	"wellColumn": 14,
+	"timeColumn": 0,
+	"elevationColumn": 1,
+	"maxChdCells": 10000,
+	"cbbUnitNumber": 50,
+	"bot_ref_files":[
+	"../bot1.ref",
+	"../bot2.ref",
+	"../bot3.ref",
+	"../bot4.ref",
+	"../bot5.ref",
+	"../bot6.ref",
+	"../bot7.ref",
+	"../bot8.ref"
+	],
+	"ibnd_inf_files":[
+	"../ibnd1.inf",
+	"../ibnd2.inf",
+	"../ibnd3.inf",
+	"../ibnd4.inf",
+	"../ibnd5.inf",
+	"../ibnd6.inf",
+	"../ibnd7.inf",
+	"../ibnd8.inf"
+	],
+	"numLayers": 8,
+	"numWells": 4,
+	"numStressPeriods": 101,
+	"well_files":[
+	"TestCaseData_well1.csv",
+	"TestCaseData_well2.csv",
+	"TestCaseData_well3.csv",
+	"TestCaseData_well4.csv"
+	],
+	"wellID":[
+	1,
+	2,
+	3,
+	4
+	]
+
+}
+
+
+

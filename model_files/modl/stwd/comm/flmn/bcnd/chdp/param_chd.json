@@ -1,0 +1,51 @@
+{
+	"numRows": 133,
+	"numCol": 188,
+	"rowColumn": 0,
+	"columnColumn": 1,
+	"wellColumn": 14,
+	"timeColumn": 0,
+	"elevationColumn": 1,
+	"specifiedLayer": "False",
+	"maxChdCells": 10000,
+	"cbbUnitNumber": 50,
+	"bot_ref_files":[
+	"../botm_layer_1.ref",
+	"../botm_layer_2.ref",
+	"../botm_layer_3.ref",
+	"../botm_layer_4.ref",
+	"../botm_layer_5.ref",
+	"../botm_layer_6.ref",
+	"../botm_layer_7.ref",
+	"../botm_layer_8.ref"
+	],
+	"ibnd_inf_files":[
+	"../ibound_layer_1.ref",
+	"../ibound_layer_2.ref",
+	"../ibound_layer_3.ref",
+	"../ibound_layer_4.ref",
+	"../ibound_layer_5.ref",
+	"../ibound_layer_6.ref",
+	"../ibound_layer_7.ref",
+	"../ibound_layer_8.ref"
+	],
+	"numLayers": 8,
+	"numWells": 4,
+	"numStressPeriods": 101,
+	"well_files":[
+	"TestCaseData_well1.csv",
+	"TestCaseData_well2.csv",
+	"TestCaseData_well3.csv",
+	"TestCaseData_well4.csv"
+	],
+	"wellID":[
+	1,
+	2,
+	3,
+	4
+	]
+
+}
+
+
+
