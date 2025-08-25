@@ -1,0 +1,363 @@
+120 1 354 NoRunHSSM 
+[1, 1, 1]
+120
+#1.0 of origin cell 50,126
+./hss/i66j106k5_0_hss.dat
+5 66 106 1 COPC
+#1.0 of origin cell 50,127
+./hss/i66j107k5_0_hss.dat
+5 66 107 1 COPC
+#1.0 of origin cell 50,128
+./hss/i66j108k5_0_hss.dat
+5 66 108 1 COPC
+#1.0 of origin cell 51,126
+./hss/i67j106k5_0_hss.dat
+5 67 106 1 COPC
+#1.0 of origin cell 51,127
+./hss/i67j107k5_0_hss.dat
+5 67 107 1 COPC
+#1.0 of origin cell 51,128
+./hss/i67j108k5_0_hss.dat
+5 67 108 1 COPC
+#1.0 of origin cell 51,129
+./hss/i67j109k5_0_hss.dat
+5 67 109 1 COPC
+#1.0 of origin cell 52,126
+./hss/i68j106k5_0_hss.dat
+5 68 106 1 COPC
+#1.0 of origin cell 52,127
+./hss/i68j107k5_0_hss.dat
+5 68 107 1 COPC
+#1.0 of origin cell 52,128
+./hss/i68j108k5_0_hss.dat
+5 68 108 1 COPC
+#1.0 of origin cell 52,129
+./hss/i68j109k5_0_hss.dat
+5 68 109 1 COPC
+#1.0 of origin cell 53,123
+./hss/i69j103k5_0_hss.dat
+5 69 103 1 COPC
+#1.0 of origin cell 53,124
+./hss/i69j104k5_0_hss.dat
+5 69 104 1 COPC
+#1.0 of origin cell 53,125
+./hss/i69j105k5_0_hss.dat
+5 69 105 1 COPC
+#1.0 of origin cell 53,126
+./hss/i69j106k5_0_hss.dat
+5 69 106 1 COPC
+#1.0 of origin cell 53,127
+./hss/i69j107k5_0_hss.dat
+5 69 107 1 COPC
+#1.0 of origin cell 53,128
+./hss/i69j108k5_0_hss.dat
+5 69 108 1 COPC
+#1.0 of origin cell 53,129
+./hss/i69j109k5_0_hss.dat
+5 69 109 1 COPC
+#1.0 of origin cell 54,124
+./hss/i70j104k5_0_hss.dat
+5 70 104 1 COPC
+#1.0 of origin cell 54,125
+./hss/i70j105k5_0_hss.dat
+5 70 105 1 COPC
+#1.0 of origin cell 54,126
+./hss/i70j106k5_0_hss.dat
+5 70 106 1 COPC
+#1.0 of origin cell 54,127
+./hss/i70j107k5_0_hss.dat
+5 70 107 1 COPC
+#1.0 of origin cell 54,128
+./hss/i70j108k5_0_hss.dat
+5 70 108 1 COPC
+#1.0 of origin cell 54,129
+./hss/i70j109k5_0_hss.dat
+5 70 109 1 COPC
+#1.0 of origin cell 55,124
+./hss/i71j104k5_0_hss.dat
+5 71 104 1 COPC
+#1.0 of origin cell 55,125
+./hss/i71j105k5_0_hss.dat
+5 71 105 1 COPC
+#1.0 of origin cell 55,126
+./hss/i71j106k5_0_hss.dat
+5 71 106 1 COPC
+#1.0 of origin cell 56,124
+./hss/i72j104k5_0_hss.dat
+5 72 104 1 COPC
+#1.0 of origin cell 56,125
+./hss/i72j105k5_0_hss.dat
+5 72 105 1 COPC
+#1.0 of origin cell 56,126
+./hss/i72j106k5_0_hss.dat
+5 72 106 1 COPC
+#1.0 of origin cell 57,125
+./hss/i73j105k4_0_hss.dat
+4 73 105 1 COPC
+#1.0 of origin cell 61,143
+./hss/i77j123k4_0_hss.dat
+4 77 123 1 COPC
+#1.0 of origin cell 62,142
+./hss/i78j122k4_0_hss.dat
+4 78 122 1 COPC
+#1.0 of origin cell 62,143
+./hss/i78j123k4_0_hss.dat
+4 78 123 1 COPC
+#1.0 of origin cell 62,61
+./hss/i78j41k4_0_hss.dat
+4 78 41 1 COPC
+#1.0 of origin cell 63,142
+./hss/i79j122k4_0_hss.dat
+4 79 122 1 COPC
+#1.0 of origin cell 63,143
+./hss/i79j123k4_0_hss.dat
+4 79 123 1 COPC
+#1.0 of origin cell 63,60
+./hss/i79j40k4_0_hss.dat
+4 79 40 1 COPC
+#1.0 of origin cell 63,61
+./hss/i79j41k4_0_hss.dat
+4 79 41 1 COPC
+#1.0 of origin cell 63,62
+./hss/i79j42k3_0_hss.dat
+3 79 42 1 COPC
+#1.0 of origin cell 64,143
+./hss/i80j123k4_0_hss.dat
+4 80 123 1 COPC
+#1.0 of origin cell 64,59
+./hss/i80j39k4_0_hss.dat
+4 80 39 1 COPC
+#1.0 of origin cell 64,60
+./hss/i80j40k4_0_hss.dat
+4 80 40 1 COPC
+#1.0 of origin cell 64,61
+./hss/i80j41k3_0_hss.dat
+3 80 41 1 COPC
+#1.0 of origin cell 64,62
+./hss/i80j42k3_0_hss.dat
+3 80 42 1 COPC
+#1.0 of origin cell 64,63
+./hss/i80j43k3_0_hss.dat
+3 80 43 1 COPC
+#1.0 of origin cell 65,59
+./hss/i81j39k4_0_hss.dat
+4 81 39 1 COPC
+#1.0 of origin cell 65,60
+./hss/i81j40k3_0_hss.dat
+3 81 40 1 COPC
+#1.0 of origin cell 65,61
+./hss/i81j41k3_0_hss.dat
+3 81 41 1 COPC
+#1.0 of origin cell 65,62
+./hss/i81j42k3_0_hss.dat
+3 81 42 1 COPC
+#1.0 of origin cell 65,63
+./hss/i81j43k3_0_hss.dat
+3 81 43 1 COPC
+#1.0 of origin cell 66,60
+./hss/i82j40k3_0_hss.dat
+3 82 40 1 COPC
+#1.0 of origin cell 66,61
+./hss/i82j41k3_0_hss.dat
+3 82 41 1 COPC
+#1.0 of origin cell 66,62
+./hss/i82j42k3_0_hss.dat
+3 82 42 1 COPC
+#1.0 of origin cell 67,61
+./hss/i83j41k3_0_hss.dat
+3 83 41 1 COPC
+#1.0 of origin cell 82,122
+./hss/i98j102k3_0_hss.dat
+3 98 102 1 COPC
+#1.0 of origin cell 82,123
+./hss/i98j103k3_0_hss.dat
+3 98 103 1 COPC
+#1.0 of origin cell 82,127
+./hss/i98j107k3_0_hss.dat
+3 98 107 1 COPC
+#1.0 of origin cell 82,128
+./hss/i98j108k3_0_hss.dat
+3 98 108 1 COPC
+#1.0 of origin cell 82,129
+./hss/i98j109k3_0_hss.dat
+3 98 109 1 COPC
+#1.0 of origin cell 83,121
+./hss/i99j101k3_0_hss.dat
+3 99 101 1 COPC
+#1.0 of origin cell 83,122
+./hss/i99j102k3_0_hss.dat
+3 99 102 1 COPC
+#1.0 of origin cell 83,123
+./hss/i99j103k3_0_hss.dat
+3 99 103 1 COPC
+#1.0 of origin cell 83,124
+./hss/i99j104k3_0_hss.dat
+3 99 104 1 COPC
+#1.0 of origin cell 83,125
+./hss/i99j105k3_0_hss.dat
+3 99 105 1 COPC
+#1.0 of origin cell 83,126
+./hss/i99j106k3_0_hss.dat
+3 99 106 1 COPC
+#1.0 of origin cell 83,127
+./hss/i99j107k3_0_hss.dat
+3 99 107 1 COPC
+#1.0 of origin cell 83,128
+./hss/i99j108k3_0_hss.dat
+3 99 108 1 COPC
+#1.0 of origin cell 83,129
+./hss/i99j109k3_0_hss.dat
+3 99 109 1 COPC
+#1.0 of origin cell 83,130
+./hss/i99j110k3_0_hss.dat
+3 99 110 1 COPC
+#1.0 of origin cell 84,120
+./hss/i100j100k3_0_hss.dat
+3 100 100 1 COPC
+#1.0 of origin cell 84,121
+./hss/i100j101k3_0_hss.dat
+3 100 101 1 COPC
+#1.0 of origin cell 84,122
+./hss/i100j102k3_0_hss.dat
+3 100 102 1 COPC
+#1.0 of origin cell 84,123
+./hss/i100j103k3_0_hss.dat
+3 100 103 1 COPC
+#1.0 of origin cell 84,124
+./hss/i100j104k3_0_hss.dat
+3 100 104 1 COPC
+#1.0 of origin cell 84,125
+./hss/i100j105k3_0_hss.dat
+3 100 105 1 COPC
+#1.0 of origin cell 84,126
+./hss/i100j106k3_0_hss.dat
+3 100 106 1 COPC
+#1.0 of origin cell 84,127
+./hss/i100j107k3_0_hss.dat
+3 100 107 1 COPC
+#1.0 of origin cell 84,128
+./hss/i100j108k3_0_hss.dat
+3 100 108 1 COPC
+#1.0 of origin cell 84,129
+./hss/i100j109k3_0_hss.dat
+3 100 109 1 COPC
+#1.0 of origin cell 84,130
+./hss/i100j110k3_0_hss.dat
+3 100 110 1 COPC
+#1.0 of origin cell 85,120
+./hss/i101j100k3_0_hss.dat
+3 101 100 1 COPC
+#1.0 of origin cell 85,121
+./hss/i101j101k3_0_hss.dat
+3 101 101 1 COPC
+#1.0 of origin cell 85,122
+./hss/i101j102k3_0_hss.dat
+3 101 102 1 COPC
+#1.0 of origin cell 85,123
+./hss/i101j103k3_0_hss.dat
+3 101 103 1 COPC
+#1.0 of origin cell 85,124
+./hss/i101j104k3_0_hss.dat
+3 101 104 1 COPC
+#1.0 of origin cell 85,125
+./hss/i101j105k3_0_hss.dat
+3 101 105 1 COPC
+#1.0 of origin cell 85,126
+./hss/i101j106k3_0_hss.dat
+3 101 106 1 COPC
+#1.0 of origin cell 85,127
+./hss/i101j107k3_0_hss.dat
+3 101 107 1 COPC
+#1.0 of origin cell 85,128
+./hss/i101j108k3_0_hss.dat
+3 101 108 1 COPC
+#1.0 of origin cell 85,129
+./hss/i101j109k3_0_hss.dat
+3 101 109 1 COPC
+#1.0 of origin cell 85,130
+./hss/i101j110k3_0_hss.dat
+3 101 110 1 COPC
+#1.0 of origin cell 86,120
+./hss/i102j100k3_0_hss.dat
+3 102 100 1 COPC
+#1.0 of origin cell 86,121
+./hss/i102j101k3_0_hss.dat
+3 102 101 1 COPC
+#1.0 of origin cell 86,122
+./hss/i102j102k3_0_hss.dat
+3 102 102 1 COPC
+#1.0 of origin cell 86,123
+./hss/i102j103k3_0_hss.dat
+3 102 103 1 COPC
+#1.0 of origin cell 86,124
+./hss/i102j104k3_0_hss.dat
+3 102 104 1 COPC
+#1.0 of origin cell 86,125
+./hss/i102j105k3_0_hss.dat
+3 102 105 1 COPC
+#1.0 of origin cell 86,126
+./hss/i102j106k3_0_hss.dat
+3 102 106 1 COPC
+#1.0 of origin cell 86,127
+./hss/i102j107k3_0_hss.dat
+3 102 107 1 COPC
+#1.0 of origin cell 86,128
+./hss/i102j108k3_0_hss.dat
+3 102 108 1 COPC
+#1.0 of origin cell 86,129
+./hss/i102j109k3_0_hss.dat
+3 102 109 1 COPC
+#1.0 of origin cell 87,121
+./hss/i103j101k3_0_hss.dat
+3 103 101 1 COPC
+#1.0 of origin cell 87,122
+./hss/i103j102k3_0_hss.dat
+3 103 102 1 COPC
+#1.0 of origin cell 87,123
+./hss/i103j103k3_0_hss.dat
+3 103 103 1 COPC
+#1.0 of origin cell 87,124
+./hss/i103j104k3_0_hss.dat
+3 103 104 1 COPC
+#1.0 of origin cell 87,125
+./hss/i103j105k3_0_hss.dat
+3 103 105 1 COPC
+#1.0 of origin cell 87,126
+./hss/i103j106k3_0_hss.dat
+3 103 106 1 COPC
+#1.0 of origin cell 87,127
+./hss/i103j107k3_0_hss.dat
+3 103 107 1 COPC
+#1.0 of origin cell 87,128
+./hss/i103j108k3_0_hss.dat
+3 103 108 1 COPC
+#1.0 of origin cell 88,122
+./hss/i104j102k3_0_hss.dat
+3 104 102 1 COPC
+#1.0 of origin cell 88,123
+./hss/i104j103k3_0_hss.dat
+3 104 103 1 COPC
+#1.0 of origin cell 88,124
+./hss/i104j104k3_0_hss.dat
+3 104 104 1 COPC
+#1.0 of origin cell 88,125
+./hss/i104j105k3_0_hss.dat
+3 104 105 1 COPC
+#1.0 of origin cell 88,126
+./hss/i104j106k3_0_hss.dat
+3 104 106 1 COPC
+#1.0 of origin cell 88,127
+./hss/i104j107k3_0_hss.dat
+3 104 107 1 COPC
+#1.0 of origin cell 89,123
+./hss/i105j103k3_0_hss.dat
+3 105 103 1 COPC
+#1.0 of origin cell 89,124
+./hss/i105j104k3_0_hss.dat
+3 105 104 1 COPC
+#1.0 of origin cell 89,125
+./hss/i105j105k3_0_hss.dat
+3 105 105 1 COPC
+#1.0 of origin cell 89,126
+./hss/i105j106k3_0_hss.dat
+3 105 106 1 COPC

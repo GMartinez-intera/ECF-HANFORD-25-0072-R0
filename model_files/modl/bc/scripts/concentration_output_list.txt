@@ -1,0 +1,10 @@
+Path,Breaks,Label
+./base/tran/nsbs/tce_/mod2tec,"0,1,5,10,20,1E19,1E20","TCE, ug/L"
+./base/tran/nsbs/tc99/mod2tec,"0,450,900,4500,9000,1E19,1E20","Technetium-99, pCi/L"
+./base/tran/nsbs/i129/mod2tec,"0,0.8,1,10,100,1E19,1E20","Iodine-129, pCi/L"
+./base/tran/nsbs/no3_/mod2tec,"0,22500,45000,90000,180000,1E19,1E20","Nitrate, ug/L"
+./base/tran/nsbs/utot/mod2tec,"0,15,30,300,3000,1E19,1E20","Total Uranium, ug/L"
+./base/tran/nsbs/cyan/mod2tec,"0,100,200,1000,2000,1E19,1E20","Cyanide, ug/L"
+./base/tran/nsbs/crvi/mod2tec,"0,6.6,48,100,480,1E19,1E20","Hexavalent Chromium, ug/L"
+./base/tran/nsbs/sr90/mod2tec,"0,4,8,80,800,1E19,1E20","Strontium-90, pCi/L"
+./base/tran/nsbs/trit/mod2tec,"0,10000,20000,200000,2000000,1E19,1E20","Tritium, pCi/L"

@@ -1,0 +1,41 @@
+         1         1         3         0         0          0             /ISOTHM,IREACT,IRCTOP,IGETSC
+        81 1.0000000(7E14.6)                    -1                # BULK DENSITY LAYER 1
+        82 1.0000000(7E14.6)                    -1                # BULK DENSITY LAYER 2
+        83 1.0000000(7E14.6)                    -1                # BULK DENSITY LAYER 3
+        84 1.0000000(7E14.6)                    -1                # BULK DENSITY LAYER 4
+        85 1.0000000(7E14.6)                    -1                # BULK DENSITY LAYER 5
+        86 1.0000000(7E14.6)                    -1                # BULK DENSITY LAYER 6
+        87 1.0000000(7E14.6)                    -1                # BULK DENSITY LAYER 7
+        88 1.0000000(7E14.6)                    -1                # BULK DENSITY LAYER 8
+         0 0.1000000(10E14.6)                   -1                # KD LAYER 1
+         0 0.1000000(10E14.6)                   -1                # KD LAYER 2
+         0 0.1000000(10E14.6)                   -1                # KD LAYER 3
+         0 0.1000000(10E14.6)                   -1                # KD LAYER 4
+         0 0.1000000(10E14.6)                   -1                # KD LAYER 5
+         0 0.1000000(10E14.6)                   -1                # KD LAYER 6
+         0 0.1000000(10E14.6)                   -1                # KD LAYER 7
+         0 0.1000000(10E14.6)                   -1                # KD LAYER 8         
+         0 0.1000000(10E14.6)                   -1                # DUMMY VARIABLE
+         0 0.1000000(10E14.6)                   -1                # DUMMY VARIABLE
+         0 0.1000000(10E14.6)                   -1                # DUMMY VARIABLE
+         0 0.1000000(10E14.6)                   -1                # DUMMY VARIABLE
+         0 0.1000000(10E14.6)                   -1                # DUMMY VARIABLE
+         0 0.1000000(10E14.6)                   -1                # DUMMY VARIABLE
+         0 0.1000000(10E14.6)                   -1                # DUMMY VARIABLE
+         0 0.1000000(10E14.6)                   -1                # DUMMY VARIABLE
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 1
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 2
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 3
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 4
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 5
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 6
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 7
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 8
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 1
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 2
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 3
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 4
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 5
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 6
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 7
+         0  1.21e-10(10E12.4)                   -1                # DECAY RATE LAYER 8

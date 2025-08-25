@@ -1,0 +1,268 @@
+"Package","LibPath","Version","Priority","Depends","Imports","LinkingTo","Suggests","Enhances","License","License_is_FOSS","License_restricts_use","OS_type","MD5sum","NeedsCompilation","Built"
+"abind","/data/projects/cpcco/R/conda/lib/R/library","1.4-8",NA,"R (>= 1.5.0)","methods, utils",NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"askpass","/data/projects/cpcco/R/conda/lib/R/library","1.2.1",NA,NA,"sys (>= 2.1)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"base","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,NA,NA,"methods","chron, date, round","Part of R 4.5.1",NA,NA,NA,NA,NA,"4.5.1"
+"base64enc","/data/projects/cpcco/R/conda/lib/R/library","0.1-3",NA,"R (>= 2.9.0)",NA,NA,NA,"png","GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"boot","/data/projects/cpcco/R/conda/lib/R/library","1.3-31","recommended","R (>= 3.0.0), graphics, stats",NA,NA,"MASS, survival",NA,"Unlimited",NA,NA,NA,NA,"no","4.5.1"
+"brew","/data/projects/cpcco/R/conda/lib/R/library","1.0-10",NA,NA,NA,NA,"testthat (>= 3.0.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.5.1"
+"brio","/data/projects/cpcco/R/conda/lib/R/library","1.1.5",NA,"R (>= 3.6)",NA,NA,"covr, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"bslib","/data/projects/cpcco/R/conda/lib/R/library","0.9.0",NA,"R (>= 2.10)","base64enc, cachem, fastmap (>= 1.1.1), grDevices, htmltools
+(>= 0.5.8), jquerylib (>= 0.1.3), jsonlite, lifecycle, memoise
+(>= 2.0.1), mime, rlang, sass (>= 0.4.9)",NA,"bsicons, curl, fontawesome, future, ggplot2, knitr, magrittr,
+rappdirs, rmarkdown (>= 2.7), shiny (> 1.8.1), testthat,
+thematic, tools, utils, withr, yaml",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"cachem","/data/projects/cpcco/R/conda/lib/R/library","1.1.0",NA,NA,"rlang, fastmap (>= 1.2.0)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"callr","/data/projects/cpcco/R/conda/lib/R/library","3.7.6",NA,"R (>= 3.4)","processx (>= 3.6.1), R6, utils",NA,"asciicast (>= 2.3.1), cli (>= 1.1.0), mockery, ps, rprojroot,
+spelling, testthat (>= 3.2.0), withr (>= 2.3.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"class","/data/projects/cpcco/R/conda/lib/R/library","7.3-23","recommended","R (>= 3.0.0), stats, utils","MASS",NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"classInt","/data/projects/cpcco/R/conda/lib/R/library","0.4-11",NA,"R (>= 2.2)","grDevices, stats, graphics, e1071, class, KernSmooth",NA,"spData (>= 0.2.6.2), units, knitr, rmarkdown, tinytest",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"cli","/data/projects/cpcco/R/conda/lib/R/library","3.6.5",NA,"R (>= 3.4)","utils",NA,"callr, covr, crayon, digest, glue (>= 1.6.0), grDevices,
+htmltools, htmlwidgets, knitr, methods, processx, ps (>=
+1.3.4.9000), rlang (>= 1.0.2.9003), rmarkdown, rprojroot,
+rstudioapi, testthat (>= 3.2.0), tibble, whoami, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"clipr","/data/projects/cpcco/R/conda/lib/R/library","0.8.0",NA,NA,"utils",NA,"covr, knitr, rmarkdown, rstudioapi (>= 0.5), testthat (>=
+2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","4.5.1"
+"cluster","/data/projects/cpcco/R/conda/lib/R/library","2.1.8.1","recommended","R (>= 3.5.0)","graphics, grDevices, stats, utils",NA,"MASS, Matrix","mvoutlier, fpc, ellipse, sfsmisc","GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"codetools","/data/projects/cpcco/R/conda/lib/R/library","0.2-20","recommended","R (>= 2.1)",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","4.5.1"
+"colorspace","/data/projects/cpcco/R/conda/lib/R/library","2.1-1",NA,"R (>= 3.0.0), methods","graphics, grDevices, stats",NA,"datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd,
+tcltk, shiny, shinyjs, ggplot2, dplyr, scales, grid, png, jpeg,
+knitr, rmarkdown, RColorBrewer, rcartocolor, scico, viridis,
+wesanderson",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"commonmark","/data/projects/cpcco/R/conda/lib/R/library","2.0.0",NA,NA,NA,NA,"curl, testthat, xml2",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"compiler","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,NA,NA,NA,NA,"Part of R 4.5.1",NA,NA,NA,NA,NA,"4.5.1"
+"cpp11","/data/projects/cpcco/R/conda/lib/R/library","0.5.2",NA,"R (>= 4.0.0)",NA,NA,"bench, brio, callr, cli, covr, decor, desc, ggplot2, glue,
+knitr, lobstr, mockery, progress, rmarkdown, scales, Rcpp,
+testthat (>= 3.2.0), tibble, utils, vctrs, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"crayon","/data/projects/cpcco/R/conda/lib/R/library","1.5.3",NA,NA,"grDevices, methods, utils",NA,"mockery, rstudioapi, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"curl","/data/projects/cpcco/R/conda/lib/R/library","6.4.0",NA,"R (>= 3.0.0)",NA,NA,"spelling, testthat (>= 1.0.0), knitr, jsonlite, later,
+rmarkdown, httpuv (>= 1.4.4), webutils",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"data.table","/data/projects/cpcco/R/conda/lib/R/library","1.17.8",NA,"R (>= 3.3.0)","methods",NA,"bit64 (>= 4.0.0), bit (>= 4.0.4), R.utils, xts, zoo (>=
+1.8-1), yaml, knitr, markdown",NA,"MPL-2.0 | file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"datasets","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,NA,NA,NA,NA,"Part of R 4.5.1",NA,NA,NA,NA,NA,"4.5.1"
+"DBI","/data/projects/cpcco/R/conda/lib/R/library","1.2.3",NA,"methods, R (>= 3.0.0)",NA,NA,"arrow, blob, covr, DBItest, dbplyr, downlit, dplyr, glue,
+hms, knitr, magrittr, nanoarrow (>= 0.3.0.1), RMariaDB,
+rmarkdown, rprojroot, RSQLite (>= 1.1-2), testthat (>= 3.0.0),
+vctrs, xml2",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","4.5.1"
+"desc","/data/projects/cpcco/R/conda/lib/R/library","1.4.3",NA,"R (>= 3.4)","cli, R6, utils",NA,"callr, covr, gh, spelling, testthat, whoami, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"diffobj","/data/projects/cpcco/R/conda/lib/R/library","0.3.6",NA,"R (>= 3.1.0)","crayon (>= 1.3.2), tools, methods, utils, stats",NA,"knitr, rmarkdown",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"digest","/data/projects/cpcco/R/conda/lib/R/library","0.6.37",NA,"R (>= 3.3.0)","utils",NA,"tinytest, simplermarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"downlit","/data/projects/cpcco/R/conda/lib/R/library","0.4.4",NA,"R (>= 4.0.0)","brio, desc, digest, evaluate, fansi, memoise, rlang, vctrs,
+withr, yaml",NA,"covr, htmltools, jsonlite, MASS, MassSpecWavelet, pkgload,
+rmarkdown, testthat (>= 3.0.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"dplyr","/data/projects/cpcco/R/conda/lib/R/library","1.1.4",NA,"R (>= 3.5.0)","cli (>= 3.4.0), generics, glue (>= 1.3.2), lifecycle (>=
+1.0.3), magrittr (>= 1.5), methods, pillar (>= 1.9.0), R6,
+rlang (>= 1.1.0), tibble (>= 3.2.0), tidyselect (>= 1.2.0),
+utils, vctrs (>= 0.6.4)",NA,"bench, broom, callr, covr, DBI, dbplyr (>= 2.2.1), ggplot2,
+knitr, Lahman, lobstr, microbenchmark, nycflights13, purrr,
+rmarkdown, RMySQL, RPostgreSQL, RSQLite, stringi (>= 1.7.6),
+testthat (>= 3.1.5), tidyr (>= 1.3.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"e1071","/data/projects/cpcco/R/conda/lib/R/library","1.7-16",NA,NA,"graphics, grDevices, class, stats, methods, utils, proxy",NA,"cluster, mlbench, nnet, randomForest, rpart, SparseM, xtable,
+Matrix, MASS, slam",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"ellipsis","/data/projects/cpcco/R/conda/lib/R/library","0.3.2",NA,"R (>= 3.2)","rlang (>= 0.3.0)",NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"evaluate","/data/projects/cpcco/R/conda/lib/R/library","1.0.4",NA,"R (>= 3.6.0)",NA,NA,"callr, covr, ggplot2 (>= 3.3.6), lattice, methods, pkgload,
+ragg (>= 1.4.0), rlang (>= 1.1.5), knitr, testthat (>= 3.0.0),
+withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"fansi","/data/projects/cpcco/R/conda/lib/R/library","1.0.6",NA,"R (>= 3.1.0)","grDevices, utils",NA,"unitizer, knitr, rmarkdown",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"farver","/data/projects/cpcco/R/conda/lib/R/library","2.1.2",NA,NA,NA,NA,"covr, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"fastmap","/data/projects/cpcco/R/conda/lib/R/library","1.2.0",NA,NA,NA,NA,"testthat (>= 2.1.1)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"FNN","/data/projects/cpcco/R/conda/lib/R/library","1.1.4.1",NA,"R (>= 4.0.0)",NA,NA,"chemometrics, mvtnorm",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"fontawesome","/data/projects/cpcco/R/conda/lib/R/library","0.5.3",NA,"R (>= 3.3.0)","rlang (>= 1.0.6), htmltools (>= 0.5.1.1)",NA,"covr, dplyr (>= 1.0.8), gt (>= 0.9.0), knitr (>= 1.31),
+testthat (>= 3.0.0), rsvg",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"foreign","/data/projects/cpcco/R/conda/lib/R/library","0.8-90","recommended","R (>= 4.0.0)","methods, utils, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"fs","/data/projects/cpcco/R/conda/lib/R/library","1.6.6",NA,"R (>= 3.6)","methods",NA,"covr, crayon, knitr, pillar (>= 1.0.0), rmarkdown, spelling,
+testthat (>= 3.0.0), tibble (>= 1.1.0), vctrs (>= 0.3.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"generics","/data/projects/cpcco/R/conda/lib/R/library","0.1.4",NA,"R (>= 3.6)","methods",NA,"covr, pkgload, testthat (>= 3.0.0), tibble, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"ggplot2","/data/projects/cpcco/R/conda/lib/R/library","3.5.2",NA,"R (>= 3.5)","cli, glue, grDevices, grid, gtable (>= 0.1.1), isoband,
+lifecycle (> 1.0.1), MASS, mgcv, rlang (>= 1.1.0), scales (>=
+1.3.0), stats, tibble, vctrs (>= 0.6.0), withr (>= 2.5.0)",NA,"covr, dplyr, ggplot2movies, hexbin, Hmisc, knitr, mapproj,
+maps, multcomp, munsell, nlme, profvis, quantreg, ragg (>=
+1.2.6), RColorBrewer, rmarkdown, rpart, sf (>= 0.7-3), svglite
+(>= 2.1.2), testthat (>= 3.1.2), vdiffr (>= 1.0.6), xml2","sp","MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"gitcreds","/data/projects/cpcco/R/conda/lib/R/library","0.1.2",NA,"R (>= 3.4)",NA,NA,"codetools, covr, knitr, mockery, oskeyring, rmarkdown,
+testthat (>= 3.0.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"glue","/data/projects/cpcco/R/conda/lib/R/library","1.8.0",NA,"R (>= 3.6)","methods",NA,"crayon, DBI (>= 1.2.0), dplyr, knitr, magrittr, rlang,
+rmarkdown, RSQLite, testthat (>= 3.2.0), vctrs (>= 0.3.0),
+waldo (>= 0.5.3), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"graphics","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,"grDevices",NA,NA,"vcd","Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"grDevices","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,NA,NA,"KernSmooth",NA,"Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"grid","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,"grDevices, utils",NA,NA,NA,"Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"gtable","/data/projects/cpcco/R/conda/lib/R/library","0.3.6",NA,"R (>= 4.0)","cli, glue, grid, lifecycle, rlang (>= 1.1.0), stats",NA,"covr, ggplot2, knitr, profvis, rmarkdown, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"highr","/data/projects/cpcco/R/conda/lib/R/library","0.11",NA,"R (>= 3.3.0)","xfun (>= 0.18)",NA,"knitr, markdown, testit",NA,"GPL",NA,NA,NA,NA,"no","4.5.1"
+"htmltools","/data/projects/cpcco/R/conda/lib/R/library","0.5.8.1",NA,"R (>= 2.14.1)","base64enc, digest, fastmap (>= 1.1.0), grDevices, rlang (>=
+1.0.0), utils",NA,"Cairo, markdown, ragg, shiny, testthat, withr","knitr","GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"htmlwidgets","/data/projects/cpcco/R/conda/lib/R/library","1.6.4",NA,NA,"grDevices, htmltools (>= 0.5.7), jsonlite (>= 0.9.16), knitr
+(>= 1.8), rmarkdown, yaml",NA,"testthat","shiny (>= 1.1)","MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"httpuv","/data/projects/cpcco/R/conda/lib/R/library","1.6.16",NA,"R (>= 2.15.1)","later (>= 0.8.0), promises, R6, Rcpp (>= 1.0.7), utils","later, Rcpp","callr, curl, jsonlite, testthat, websocket",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"ini","/data/projects/cpcco/R/conda/lib/R/library","0.3.1",NA,NA,NA,NA,"testthat",NA,"GPL-3",NA,NA,NA,NA,"no","4.5.1"
+"intervals","/data/projects/cpcco/R/conda/lib/R/library","0.15.5",NA,"R (>= 2.9.0)","utils, graphics, methods",NA,NA,NA,"Artistic-2.0",NA,NA,NA,NA,"yes","4.5.1"
+"IRdisplay","/data/projects/cpcco/R/conda/lib/R/library","1.1",NA,"R (>= 3.0.1)","methods, repr",NA,"testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"IRkernel","/data/projects/cpcco/R/conda/lib/R/library","1.3.2",NA,"R (>= 3.2.0)","repr (>= 0.4.99), methods, evaluate (>= 0.10), IRdisplay (>=
+0.3.0.9999), pbdZMQ (>= 0.2-1), crayon, jsonlite (>= 0.9.6),
+uuid, digest",NA,"testthat, roxygen2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"isoband","/data/projects/cpcco/R/conda/lib/R/library","0.2.7",NA,NA,"grid, utils",NA,"covr, ggplot2, knitr, magick, microbenchmark, rmarkdown, sf,
+testthat, xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"jquerylib","/data/projects/cpcco/R/conda/lib/R/library","0.1.4",NA,NA,"htmltools",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"jsonlite","/data/projects/cpcco/R/conda/lib/R/library","2.0.0",NA,"methods",NA,NA,"httr, vctrs, testthat, knitr, rmarkdown, R.rsp, sf",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"KernSmooth","/data/projects/cpcco/R/conda/lib/R/library","2.23-26","recommended","R (>= 2.5.0), stats",NA,NA,"MASS, carData",NA,"Unlimited",NA,NA,NA,NA,"yes","4.5.1"
+"knitr","/data/projects/cpcco/R/conda/lib/R/library","1.50",NA,"R (>= 3.6.0)","evaluate (>= 0.15), highr (>= 0.11), methods, tools, xfun (>=
+0.51), yaml (>= 2.1.19)",NA,"bslib, codetools, DBI (>= 0.4-1), digest, formatR, gifski,
+gridSVG, htmlwidgets (>= 0.7), jpeg, JuliaCall (>= 0.11.1),
+magick, litedown, markdown (>= 1.3), png, ragg, reticulate (>=
+1.4), rgl (>= 0.95.1201), rlang, rmarkdown, sass, showtext,
+styler (>= 1.2.0), targets (>= 0.6.0), testit, tibble,
+tikzDevice (>= 0.10), tinytex (>= 0.56), webshot, rstudioapi,
+svglite",NA,"GPL",NA,NA,NA,NA,"no","4.5.1"
+"labeling","/data/projects/cpcco/R/conda/lib/R/library","0.4.3",NA,NA,"stats, graphics",NA,NA,NA,"MIT + file LICENSE | Unlimited",NA,NA,NA,NA,"no","4.5.1"
+"later","/data/projects/cpcco/R/conda/lib/R/library","1.4.2",NA,NA,"Rcpp (>= 0.12.9), rlang","Rcpp","knitr, nanonext, R6, rmarkdown, testthat (>= 2.1.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"lattice","/data/projects/cpcco/R/conda/lib/R/library","0.22-7","recommended","R (>= 4.0.0)","grid, grDevices, graphics, stats, utils",NA,"KernSmooth, MASS, latticeExtra, colorspace","chron, zoo","GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"lifecycle","/data/projects/cpcco/R/conda/lib/R/library","1.0.4",NA,"R (>= 3.6)","cli (>= 3.4.0), glue, rlang (>= 1.1.0)",NA,"covr, crayon, knitr, lintr, rmarkdown, testthat (>= 3.0.1),
+tibble, tidyverse, tools, vctrs, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"magrittr","/data/projects/cpcco/R/conda/lib/R/library","2.0.3",NA,"R (>= 3.4.0)",NA,NA,"covr, knitr, rlang, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"MASS","/data/projects/cpcco/R/conda/lib/R/library","7.3-65","recommended","R (>= 4.4.0), grDevices, graphics, stats, utils","methods",NA,"lattice, nlme, nnet, survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"Matrix","/data/projects/cpcco/R/conda/lib/R/library","1.7-3","recommended","R (>= 4.4), methods","grDevices, graphics, grid, lattice, stats, utils",NA,"MASS, datasets, sfsmisc, tools","SparseM, graph","GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","4.5.1"
+"memoise","/data/projects/cpcco/R/conda/lib/R/library","2.0.1",NA,NA,"rlang (>= 0.4.10), cachem",NA,"digest, aws.s3, covr, googleAuthR, googleCloudStorageR, httr,
+testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"methods","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,"utils, stats",NA,"codetools",NA,"Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"mgcv","/data/projects/cpcco/R/conda/lib/R/library","1.9-3","recommended","R (>= 3.6.0), nlme (>= 3.1-64)","methods, stats, graphics, Matrix, splines, utils",NA,"parallel, survival, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"mime","/data/projects/cpcco/R/conda/lib/R/library","0.13",NA,NA,"tools",NA,NA,NA,"GPL",NA,NA,NA,NA,"yes","4.5.1"
+"miniUI","/data/projects/cpcco/R/conda/lib/R/library","0.1.2",NA,NA,"shiny (>= 0.13), htmltools (>= 0.3), utils",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","4.5.1"
+"munsell","/data/projects/cpcco/R/conda/lib/R/library","0.5.1",NA,NA,"colorspace, methods",NA,"ggplot2, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"nlme","/data/projects/cpcco/R/conda/lib/R/library","3.1-168","recommended","R (>= 3.6.0)","graphics, stats, utils, lattice",NA,"MASS, SASmixed",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"nnet","/data/projects/cpcco/R/conda/lib/R/library","7.3-20","recommended","R (>= 3.0.0), stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"parallel","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,"tools, compiler",NA,"methods","snow, Rmpi, mirai","Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"pbdZMQ","/data/projects/cpcco/R/conda/lib/R/library","0.3-14",NA,"R (>= 3.5.0)",NA,NA,NA,NA,"GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"pillar","/data/projects/cpcco/R/conda/lib/R/library","1.11.0",NA,NA,"cli (>= 2.3.0), glue, lifecycle, rlang (>= 1.0.2), utf8 (>=
+1.1.0), utils, vctrs (>= 0.5.0)",NA,"bit64, DBI, debugme, DiagrammeR, dplyr, formattable, ggplot2,
+knitr, lubridate, nanotime, nycflights13, palmerpenguins,
+rmarkdown, scales, stringi, survival, testthat (>= 3.1.1),
+tibble, units (>= 0.7.2), vdiffr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"pkgbuild","/data/projects/cpcco/R/conda/lib/R/library","1.4.8",NA,"R (>= 3.5)","callr (>= 3.2.0), cli (>= 3.4.0), desc, processx, R6",NA,"covr, cpp11, knitr, Rcpp, rmarkdown, testthat (>= 3.2.0),
+withr (>= 2.3.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"pkgconfig","/data/projects/cpcco/R/conda/lib/R/library","2.0.3",NA,NA,"utils",NA,"covr, testthat, disposables (>= 1.0.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"pkgload","/data/projects/cpcco/R/conda/lib/R/library","1.4.0",NA,"R (>= 3.4.0)","cli (>= 3.3.0), desc, fs, glue, lifecycle, methods, pkgbuild,
+processx, rlang (>= 1.1.1), rprojroot, utils, withr (>= 2.4.3)",NA,"bitops, jsonlite, mathjaxr, pak, Rcpp, remotes, rstudioapi,
+testthat (>= 3.2.1.1), usethis",NA,"GPL-3",NA,NA,NA,NA,"no","4.5.1"
+"png","/data/projects/cpcco/R/conda/lib/R/library","0.1-8",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"praise","/data/projects/cpcco/R/conda/lib/R/library","1.0.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"prettyunits","/data/projects/cpcco/R/conda/lib/R/library","1.2.0",NA,"R(>= 2.10)",NA,NA,"codetools, covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"processx","/data/projects/cpcco/R/conda/lib/R/library","3.8.6",NA,"R (>= 3.4.0)","ps (>= 1.2.0), R6, utils",NA,"callr (>= 3.7.3), cli (>= 3.3.0), codetools, covr, curl,
+debugme, parallel, rlang (>= 1.0.2), testthat (>= 3.0.0),
+webfakes, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"profvis","/data/projects/cpcco/R/conda/lib/R/library","0.4.0",NA,"R (>= 4.0)","htmlwidgets (>= 0.3.2), rlang (>= 1.1.0), vctrs",NA,"htmltools, knitr, rmarkdown, shiny, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"promises","/data/projects/cpcco/R/conda/lib/R/library","1.3.3",NA,NA,"fastmap (>= 1.1.0), later, magrittr (>= 1.5), R6, Rcpp, rlang,
+stats","later, Rcpp","future (>= 1.21.0), knitr, purrr, rmarkdown, spelling,
+testthat (>= 3.0.0), vembedr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"proxy","/data/projects/cpcco/R/conda/lib/R/library","0.4-27",NA,"R (>= 3.4.0)","stats, utils",NA,"cba",NA,"GPL-2",NA,NA,NA,NA,"yes","4.5.1"
+"ps","/data/projects/cpcco/R/conda/lib/R/library","1.9.1",NA,"R (>= 3.4)","utils",NA,"callr, covr, curl, pillar, pingr, processx (>= 3.1.0), R6,
+rlang, testthat (>= 3.0.0), webfakes, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"purrr","/data/projects/cpcco/R/conda/lib/R/library","1.1.0",NA,"R (>= 4.1)","cli (>= 3.6.1), lifecycle (>= 1.0.3), magrittr (>= 1.5.0),
+rlang (>= 1.1.1), vctrs (>= 0.6.3)","cli","carrier (>= 0.2.0), covr, dplyr (>= 0.7.8), httr, knitr,
+lubridate, mirai (>= 2.4.0), rmarkdown, testthat (>= 3.0.0),
+tibble, tidyselect",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"R6","/data/projects/cpcco/R/conda/lib/R/library","2.6.1",NA,"R (>= 3.6)",NA,NA,"lobstr, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"rappdirs","/data/projects/cpcco/R/conda/lib/R/library","0.3.3",NA,"R (>= 3.2)",NA,NA,"roxygen2, testthat (>= 3.0.0), covr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"rcmdcheck","/data/projects/cpcco/R/conda/lib/R/library","1.4.0",NA,NA,"callr (>= 3.1.1.9000), cli (>= 3.0.0), curl, desc (>= 1.2.0),
+digest, pkgbuild, prettyunits, R6, rprojroot, sessioninfo (>=
+1.1.1), utils, withr, xopen",NA,"covr, knitr, mockery, processx, ps, rmarkdown, svglite,
+testthat, webfakes",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"RColorBrewer","/data/projects/cpcco/R/conda/lib/R/library","1.1-3",NA,"R (>= 2.0.0)",NA,NA,NA,NA,"Apache License 2.0",NA,NA,NA,NA,"no","4.5.1"
+"Rcpp","/data/projects/cpcco/R/conda/lib/R/library","1.1.0",NA,NA,"methods, utils",NA,"tinytest, inline, rbenchmark, pkgKitten (>= 0.1.2)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"rematch2","/data/projects/cpcco/R/conda/lib/R/library","2.1.2",NA,NA,"tibble",NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"remotes","/data/projects/cpcco/R/conda/lib/R/library","2.5.0",NA,"R (>= 3.0.0)","methods, stats, tools, utils",NA,"brew, callr, codetools, covr, curl, git2r (>= 0.23.0), knitr,
+mockery, pingr, pkgbuild (>= 1.0.1), rmarkdown, rprojroot,
+testthat (>= 3.0.0), webfakes, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"repr","/data/projects/cpcco/R/conda/lib/R/library","1.1.7",NA,"R (>= 3.0.1)","utils, grDevices, htmltools, jsonlite, pillar (>= 1.4.0),
+base64enc",NA,"methods, highr, Cairo, stringr, testthat (>= 3.0.0), leaflet","data.table, tibble, htmlwidgets, vegalite, plotly, geojsonio","GPL (>= 3)",NA,NA,NA,NA,"no","4.5.1"
+"rlang","/data/projects/cpcco/R/conda/lib/R/library","1.1.6",NA,"R (>= 3.5.0)","utils",NA,"cli (>= 3.1.0), covr, crayon, desc, fs, glue, knitr,
+magrittr, methods, pillar, pkgload, rmarkdown, stats, testthat
+(>= 3.2.0), tibble, usethis, vctrs (>= 0.2.3), withr","winch","MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"rmarkdown","/data/projects/cpcco/R/conda/lib/R/library","2.29",NA,"R (>= 3.0)","bslib (>= 0.2.5.1), evaluate (>= 0.13), fontawesome (>=
+0.5.0), htmltools (>= 0.5.1), jquerylib, jsonlite, knitr (>=
+1.43), methods, tinytex (>= 0.31), tools, utils, xfun (>=
+0.36), yaml (>= 2.1.19)",NA,"digest, dygraphs, fs, rsconnect, downlit (>= 0.4.0), katex
+(>= 1.4.0), sass (>= 0.4.0), shiny (>= 1.6.0), testthat (>=
+3.0.3), tibble, vctrs, cleanrmd, withr (>= 2.4.2), xml2",NA,"GPL-3",NA,NA,NA,NA,"no","4.5.1"
+"rpart","/data/projects/cpcco/R/conda/lib/R/library","4.1.24","recommended","R (>= 2.15.0), graphics, stats, grDevices",NA,NA,"survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"rprojroot","/data/projects/cpcco/R/conda/lib/R/library","2.1.0",NA,"R (>= 3.0.0)",NA,NA,"covr, knitr, lifecycle, rlang, rmarkdown, testthat (>=
+3.2.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"rstudioapi","/data/projects/cpcco/R/conda/lib/R/library","0.17.1",NA,NA,NA,NA,"testthat, knitr, rmarkdown, clipr, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"rversions","/data/projects/cpcco/R/conda/lib/R/library","2.1.2",NA,NA,"curl, utils, xml2 (>= 1.0.0)",NA,"covr, mockery, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"sass","/data/projects/cpcco/R/conda/lib/R/library","0.4.10",NA,NA,"fs (>= 1.2.4), rlang (>= 0.4.10), htmltools (>= 0.5.1), R6,
+rappdirs",NA,"testthat, knitr, rmarkdown, withr, shiny, curl",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"scales","/data/projects/cpcco/R/conda/lib/R/library","1.4.0",NA,"R (>= 4.1)","cli, farver (>= 2.0.3), glue, labeling, lifecycle, R6,
+RColorBrewer, rlang (>= 1.1.0), viridisLite",NA,"bit64, covr, dichromat, ggplot2, hms (>= 0.5.0), stringi,
+testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"sessioninfo","/data/projects/cpcco/R/conda/lib/R/library","1.2.3",NA,"R (>= 3.4)","cli (>= 3.1.0), tools, utils",NA,"callr, covr, gh, reticulate, rmarkdown, testthat (>= 3.2.0),
+withr",NA,"GPL-2",NA,NA,NA,NA,"no","4.5.1"
+"shiny","/data/projects/cpcco/R/conda/lib/R/library","1.11.1",NA,"R (>= 3.0.2), methods","utils, grDevices, httpuv (>= 1.5.2), mime (>= 0.3), jsonlite
+(>= 0.9.16), xtable, fontawesome (>= 0.4.0), htmltools (>=
+0.5.4), R6 (>= 2.0), sourcetools, later (>= 1.0.0), promises
+(>= 1.3.2), tools, cli, rlang (>= 0.4.10), fastmap (>= 1.1.1),
+withr, commonmark (>= 1.7), glue (>= 1.3.2), bslib (>= 0.6.0),
+cachem (>= 1.1.0), lifecycle (>= 0.2.0)",NA,"coro (>= 1.1.0), datasets, DT, Cairo (>= 1.5-5), testthat (>=
+3.2.1), knitr (>= 1.6), markdown, rmarkdown, ggplot2, reactlog
+(>= 1.0.0), magrittr, yaml, mirai, future, dygraphs, ragg,
+showtext, sass, watcher",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"sourcetools","/data/projects/cpcco/R/conda/lib/R/library","0.1.7-1",NA,"R (>= 3.0.2)",NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"sp","/data/projects/cpcco/R/conda/lib/R/library","2.2-0",NA,"R (>= 3.5.0), methods","utils, stats, graphics, grDevices, lattice, grid",NA,"RColorBrewer, gstat, deldir, knitr, maps, mapview, rmarkdown,
+sf, terra, raster",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"spacetime","/data/projects/cpcco/R/conda/lib/R/library","1.3-3",NA,"R (>= 3.0.0)","graphics, utils, stats, methods, lattice, sp (>= 1.1-0), zoo
+(>= 1.7-9), xts (>= 0.8-8), intervals",NA,"adehabitatLT, cshapes (>= 2.0), foreign, googleVis, gstat (>=
+1.0-16), maps, mapdata, plm, raster, RColorBrewer, rmarkdown,
+RPostgreSQL, knitr, ISOcodes, markdown, sf, sftime, spdep",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.5.1"
+"spatial","/data/projects/cpcco/R/conda/lib/R/library","7.3-18","recommended","R (>= 3.0.0), graphics, stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"
+"splines","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,"graphics, stats",NA,"Matrix, methods",NA,"Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"stats","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,"utils, grDevices, graphics",NA,"MASS, Matrix, SuppDists, methods, stats4","Kendall, coin, multcomp, pcaPP, pspearman, robustbase","Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"stats4","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,"graphics, methods, stats",NA,NA,NA,"Part of R 4.5.1",NA,NA,NA,NA,NA,"4.5.1"
+"sys","/data/projects/cpcco/R/conda/lib/R/library","3.4.3",NA,NA,NA,NA,"unix (>= 1.4), spelling, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"systemfonts","/data/projects/cpcco/R/conda/lib/R/library","1.2.3",NA,"R (>= 3.2.0)","base64enc, grid, jsonlite, lifecycle, tools, utils","cpp11 (>= 0.2.1)","covr, farver, graphics, knitr, rmarkdown, testthat (>= 2.1.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"tcltk","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,"utils",NA,NA,NA,"Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"testthat","/data/projects/cpcco/R/conda/lib/R/library","3.2.3",NA,"R (>= 3.6.0)","brio (>= 1.1.3), callr (>= 3.7.3), cli (>= 3.6.1), desc (>=
+1.4.2), digest (>= 0.6.33), evaluate (>= 1.0.1), jsonlite (>=
+1.8.7), lifecycle (>= 1.0.3), magrittr (>= 2.0.3), methods,
+pkgload (>= 1.3.2.1), praise (>= 1.0.0), processx (>= 3.8.2),
+ps (>= 1.7.5), R6 (>= 2.5.1), rlang (>= 1.1.1), utils, waldo
+(>= 0.6.0), withr (>= 3.0.2)",NA,"covr, curl (>= 0.9.5), diffviewer (>= 0.1.0), knitr,
+rmarkdown, rstudioapi, S7, shiny, usethis, vctrs (>= 0.1.0),
+xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"tibble","/data/projects/cpcco/R/conda/lib/R/library","3.3.0",NA,"R (>= 3.4.0)","cli, lifecycle (>= 1.0.0), magrittr, methods, pillar (>=
+1.8.1), pkgconfig, rlang (>= 1.0.2), utils, vctrs (>= 0.5.0)",NA,"bench, bit64, blob, brio, callr, DiagrammeR, dplyr, evaluate,
+formattable, ggplot2, here, hms, htmltools, knitr, lubridate,
+nycflights13, pkgload, purrr, rmarkdown, stringi, testthat (>=
+3.0.2), tidyr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"tidyselect","/data/projects/cpcco/R/conda/lib/R/library","1.2.1",NA,"R (>= 3.4)","cli (>= 3.3.0), glue (>= 1.3.0), lifecycle (>= 1.0.3), rlang
+(>= 1.0.4), vctrs (>= 0.5.2), withr",NA,"covr, crayon, dplyr, knitr, magrittr, rmarkdown, stringr,
+testthat (>= 3.1.1), tibble (>= 2.1.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"tinytex","/data/projects/cpcco/R/conda/lib/R/library","0.57",NA,NA,"xfun (>= 0.48)",NA,"testit, rstudioapi",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"tools","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,NA,NA,"codetools, methods, xml2, curl, commonmark, knitr, xfun, mathjaxr, V8",NA,"Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"units","/data/projects/cpcco/R/conda/lib/R/library","0.8-7",NA,"R (>= 3.0.2)","Rcpp","Rcpp (>= 0.12.10)","NISTunits, measurements, xml2, magrittr, pillar (>= 1.3.0),
+dplyr (>= 1.0.0), vctrs (>= 0.3.1), ggplot2 (> 3.2.1), testthat
+(>= 3.0.0), vdiffr, knitr, rvest, rmarkdown",NA,"GPL-2",NA,NA,NA,NA,"yes","4.5.1"
+"urlchecker","/data/projects/cpcco/R/conda/lib/R/library","1.0.1",NA,"R (>= 3.3)","cli, curl, tools, xml2",NA,"covr",NA,"GPL-3",NA,NA,NA,NA,"no","4.5.1"
+"utf8","/data/projects/cpcco/R/conda/lib/R/library","1.2.6",NA,"R (>= 2.10)",NA,NA,"cli, covr, knitr, rlang, rmarkdown, testthat (>= 3.0.0),
+withr",NA,"Apache License (== 2.0) | file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"utils","/data/projects/cpcco/R/conda/lib/R/library","4.5.1","base",NA,NA,NA,"methods, xml2, commonmark, knitr, jsonlite",NA,"Part of R 4.5.1",NA,NA,NA,NA,"yes","4.5.1"
+"uuid","/data/projects/cpcco/R/conda/lib/R/library","1.2-1",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"vctrs","/data/projects/cpcco/R/conda/lib/R/library","0.6.5",NA,"R (>= 3.5.0)","cli (>= 3.4.0), glue, lifecycle (>= 1.0.3), rlang (>= 1.1.0)",NA,"bit64, covr, crayon, dplyr (>= 0.8.5), generics, knitr,
+pillar (>= 1.4.4), pkgdown (>= 2.0.1), rmarkdown, testthat (>=
+3.0.0), tibble (>= 3.1.3), waldo (>= 0.2.0), withr, xml2,
+zeallot",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"viridisLite","/data/projects/cpcco/R/conda/lib/R/library","0.4.2",NA,"R (>= 2.10)",NA,NA,"hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"waldo","/data/projects/cpcco/R/conda/lib/R/library","0.6.2",NA,"R (>= 4.0)","cli, diffobj (>= 0.3.4), glue, methods, rlang (>= 1.1.0)",NA,"bit64, R6, S7, testthat (>= 3.0.0), withr, xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"whisker","/data/projects/cpcco/R/conda/lib/R/library","0.4.1",NA,NA,NA,NA,"markdown",NA,"GPL-3",NA,NA,NA,NA,"no","4.5.1"
+"withr","/data/projects/cpcco/R/conda/lib/R/library","3.0.2",NA,"R (>= 3.6.0)","graphics, grDevices",NA,"callr, DBI, knitr, methods, rlang, rmarkdown (>= 2.12),
+RSQLite, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"wk","/data/projects/cpcco/R/conda/lib/R/library","0.9.4",NA,"R (>= 2.10)",NA,NA,"testthat (>= 3.0.0), vctrs (>= 0.3.0), sf, tibble, readr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"xfun","/data/projects/cpcco/R/conda/lib/R/library","0.52",NA,"R (>= 3.2.0)","grDevices, stats, tools",NA,"testit, parallel, codetools, methods, rstudioapi, tinytex (>=
+0.30), mime, litedown (>= 0.4), commonmark, knitr (>= 1.50),
+remotes, pak, curl, xml2, jsonlite, magick, yaml, qs",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"xml2","/data/projects/cpcco/R/conda/lib/R/library","1.3.8",NA,"R (>= 3.6.0)","cli, methods, rlang (>= 1.1.0)",NA,"covr, curl, httr, knitr, magrittr, mockery, rmarkdown,
+testthat (>= 3.2.0), xslt",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"xopen","/data/projects/cpcco/R/conda/lib/R/library","1.0.1",NA,"R (>= 3.1)","processx",NA,"ps, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","4.5.1"
+"xtable","/data/projects/cpcco/R/conda/lib/R/library","1.8-4",NA,"R (>= 2.10.0)","stats, utils",NA,"knitr, plm, zoo, survival",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.5.1"
+"xts","/data/projects/cpcco/R/conda/lib/R/library","0.14.1",NA,"R (>= 3.6.0), zoo (>= 1.7-12)","methods","zoo","timeSeries, timeDate, tseries, chron, tinytest",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","4.5.1"
+"yaml","/data/projects/cpcco/R/conda/lib/R/library","2.3.10",NA,NA,NA,NA,"RUnit",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"zip","/data/projects/cpcco/R/conda/lib/R/library","2.3.3",NA,NA,NA,NA,"covr, pillar, processx, R6, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.5.1"
+"zoo","/data/projects/cpcco/R/conda/lib/R/library","1.8-14",NA,"R (>= 3.1.0), stats","utils, graphics, grDevices, lattice (>= 0.20-27)",NA,"AER, coda, chron, ggplot2 (>= 3.5.0), mondate, scales,
+stinepack, strucchange, timeDate, timeSeries, tinyplot, tis,
+tseries, xts",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","4.5.1"

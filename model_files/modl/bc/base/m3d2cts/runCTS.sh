@@ -1,0 +1,11 @@
+./m3d2cts_dp.x < m3d2cts.in
+sed "s/replacval/    -0.203    /g" "template.cts" > "../tran/cts_/P2RBC_crvi.cts"
+sed "s/replacval/    -0.987    /g" "template.cts" > "../tran/cts_/P2RBC_cyan.cts"
+sed "s/replacval/    -0.999    /g" "template.cts" > "../tran/cts_/P2RBC_ctet.cts"
+sed "s/replacval/     0.000    /g" "template.cts" > "../tran/cts_/P2RBC_i129.cts"
+sed "s/replacval/     0.000    /g" "template.cts" > "../tran/cts_/P2RBC_no3_.cts"
+sed "s/replacval/     0.000    /g" "template.cts" > "../tran/cts_/P2RBC_sr90.cts"
+sed "s/replacval/    -0.857    /g" "template.cts" > "../tran/cts_/P2RBC_tce_.cts"
+sed "s/replacval/    -0.921    /g" "template.cts" > "../tran/cts_/P2RBC_tc99.cts"
+sed "s/replacval/     0.000    /g" "template.cts" > "../tran/cts_/P2RBC_trit.cts"
+sed "s/replacval/    -0.992    /g" "template.cts" > "../tran/cts_/P2RBC_utot.cts"

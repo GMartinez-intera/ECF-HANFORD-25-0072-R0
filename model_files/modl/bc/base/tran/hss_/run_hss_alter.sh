@@ -1,0 +1,10 @@
+perl hss_alter_k.pl ./CIENFAHSS_2023/crkd/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/crkd/mt3d_bc.hss
+perl hss_alter_k.pl ./CIENFAHSS_2023/crvi/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/crvi/mt3d_bc.hss
+perl hss_alter_k.pl ./CIENFAHSS_2023/cyan/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/cyan/mt3d_bc.hss
+perl hss_alter_k.pl ./CIENFAHSS_2023/i129/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/i129/mt3d_bc.hss
+perl hss_alter_k.pl ./CIENFAHSS_2023/no3_/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/no3_/mt3d_bc.hss
+perl hss_alter_k.pl ./CIENFAHSS_2023/i129/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/i129/mt3d_bc.hss
+perl hss_alter_k.pl ./CIENFAHSS_2023/sr90/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/sr90/mt3d_bc.hss
+perl hss_alter_k.pl ./CIENFAHSS_2023/tc99/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/tc99/mt3d_bc.hss
+perl hss_alter_k.pl ./CIENFAHSS_2023/trit/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/trit/mt3d_bc.hss
+perl hss_alter_k.pl ./CIENFAHSS_2023/utot/mt3d.hss ../../flow/sat_lay/sat_lay.inf ./CIENFAHSS_2023/utot/mt3d_bc.hss

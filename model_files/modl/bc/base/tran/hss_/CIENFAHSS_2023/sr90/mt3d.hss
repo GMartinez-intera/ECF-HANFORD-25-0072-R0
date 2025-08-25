@@ -1,0 +1,539 @@
+268 1 305 NoRunHSSM 
+1 1 1
+268
+./hss/i95j187k5_0_hss.dat
+5 95 187 1 COPC
+./hss/i95j188k5_0_hss.dat
+5 95 188 1 COPC
+./hss/i95j189k5_0_hss.dat
+5 95 189 1 COPC
+./hss/i95j190k5_0_hss.dat
+5 95 190 1 COPC
+./hss/i96j187k5_0_hss.dat
+5 96 187 1 COPC
+./hss/i96j188k5_0_hss.dat
+5 96 188 1 COPC
+./hss/i96j189k5_0_hss.dat
+5 96 189 1 COPC
+./hss/i96j190k5_0_hss.dat
+5 96 190 1 COPC
+./hss/i97j187k5_0_hss.dat
+5 97 187 1 COPC
+./hss/i97j188k5_0_hss.dat
+5 97 188 1 COPC
+./hss/i97j189k5_0_hss.dat
+5 97 189 1 COPC
+./hss/i97j190k5_0_hss.dat
+5 97 190 1 COPC
+./hss/i97j191k5_0_hss.dat
+5 97 191 1 COPC
+./hss/i97j192k5_0_hss.dat
+5 97 192 1 COPC
+./hss/i97j193k5_0_hss.dat
+5 97 193 1 COPC
+./hss/i97j194k5_0_hss.dat
+5 97 194 1 COPC
+./hss/i97j195k5_0_hss.dat
+5 97 195 1 COPC
+./hss/i97j196k5_0_hss.dat
+5 97 196 1 COPC
+./hss/i98j187k5_0_hss.dat
+5 98 187 1 COPC
+./hss/i98j188k5_0_hss.dat
+5 98 188 1 COPC
+./hss/i98j189k5_0_hss.dat
+5 98 189 1 COPC
+./hss/i98j190k5_0_hss.dat
+5 98 190 1 COPC
+./hss/i98j191k5_0_hss.dat
+5 98 191 1 COPC
+./hss/i98j192k5_0_hss.dat
+5 98 192 1 COPC
+./hss/i98j193k5_0_hss.dat
+5 98 193 1 COPC
+./hss/i98j194k5_0_hss.dat
+5 98 194 1 COPC
+./hss/i98j195k5_0_hss.dat
+5 98 195 1 COPC
+./hss/i98j196k5_0_hss.dat
+5 98 196 1 COPC
+./hss/i99j193k4_0_hss.dat
+4 99 193 1 COPC
+./hss/i99j194k4_0_hss.dat
+4 99 194 1 COPC
+./hss/i99j195k4_0_hss.dat
+4 99 195 1 COPC
+./hss/i99j196k4_0_hss.dat
+4 99 196 1 COPC
+./hss/i100j193k4_0_hss.dat
+4 100 193 1 COPC
+./hss/i100j194k4_0_hss.dat
+4 100 194 1 COPC
+./hss/i100j195k4_0_hss.dat
+4 100 195 1 COPC
+./hss/i100j196k4_0_hss.dat
+4 100 196 1 COPC
+./hss/i101j237k7_0_hss.dat
+7 101 237 1 COPC
+./hss/i101j238k7_0_hss.dat
+7 101 238 1 COPC
+./hss/i102j237k7_0_hss.dat
+7 102 237 1 COPC
+./hss/i102j238k7_0_hss.dat
+7 102 238 1 COPC
+./hss/i103j231k6_0_hss.dat
+6 103 231 1 COPC
+./hss/i103j232k6_0_hss.dat
+6 103 232 1 COPC
+./hss/i103j233k7_0_hss.dat
+7 103 233 1 COPC
+./hss/i103j234k7_0_hss.dat
+7 103 234 1 COPC
+./hss/i103j235k7_0_hss.dat
+7 103 235 1 COPC
+./hss/i103j236k7_0_hss.dat
+7 103 236 1 COPC
+./hss/i103j237k7_0_hss.dat
+7 103 237 1 COPC
+./hss/i103j238k7_0_hss.dat
+7 103 238 1 COPC
+./hss/i103j239k7_0_hss.dat
+7 103 239 1 COPC
+./hss/i103j240k7_0_hss.dat
+7 103 240 1 COPC
+./hss/i103j241k7_0_hss.dat
+7 103 241 1 COPC
+./hss/i103j242k7_0_hss.dat
+7 103 242 1 COPC
+./hss/i103j243k7_0_hss.dat
+7 103 243 1 COPC
+./hss/i103j244k7_0_hss.dat
+7 103 244 1 COPC
+./hss/i103j245k7_0_hss.dat
+7 103 245 1 COPC
+./hss/i103j246k7_0_hss.dat
+7 103 246 1 COPC
+./hss/i103j247k7_0_hss.dat
+7 103 247 1 COPC
+./hss/i103j248k7_0_hss.dat
+7 103 248 1 COPC
+./hss/i103j55k3_0_hss.dat
+3 103 55 1 COPC
+./hss/i103j56k3_0_hss.dat
+3 103 56 1 COPC
+./hss/i103j57k3_0_hss.dat
+3 103 57 1 COPC
+./hss/i103j58k3_0_hss.dat
+3 103 58 1 COPC
+./hss/i104j231k6_0_hss.dat
+6 104 231 1 COPC
+./hss/i104j232k6_0_hss.dat
+6 104 232 1 COPC
+./hss/i104j233k7_0_hss.dat
+7 104 233 1 COPC
+./hss/i104j234k7_0_hss.dat
+7 104 234 1 COPC
+./hss/i104j235k7_0_hss.dat
+7 104 235 1 COPC
+./hss/i104j236k7_0_hss.dat
+7 104 236 1 COPC
+./hss/i104j237k7_0_hss.dat
+7 104 237 1 COPC
+./hss/i104j238k7_0_hss.dat
+7 104 238 1 COPC
+./hss/i104j239k7_0_hss.dat
+7 104 239 1 COPC
+./hss/i104j240k7_0_hss.dat
+7 104 240 1 COPC
+./hss/i104j241k7_0_hss.dat
+7 104 241 1 COPC
+./hss/i104j242k7_0_hss.dat
+7 104 242 1 COPC
+./hss/i104j243k7_0_hss.dat
+7 104 243 1 COPC
+./hss/i104j244k7_0_hss.dat
+7 104 244 1 COPC
+./hss/i104j245k7_0_hss.dat
+7 104 245 1 COPC
+./hss/i104j246k7_0_hss.dat
+7 104 246 1 COPC
+./hss/i104j247k7_0_hss.dat
+7 104 247 1 COPC
+./hss/i104j248k7_0_hss.dat
+7 104 248 1 COPC
+./hss/i104j55k3_0_hss.dat
+3 104 55 1 COPC
+./hss/i104j56k3_0_hss.dat
+3 104 56 1 COPC
+./hss/i104j57k3_0_hss.dat
+3 104 57 1 COPC
+./hss/i104j58k3_0_hss.dat
+3 104 58 1 COPC
+./hss/i105j179k4_0_hss.dat
+4 105 179 1 COPC
+./hss/i105j180k4_0_hss.dat
+4 105 180 1 COPC
+./hss/i105j181k4_0_hss.dat
+4 105 181 1 COPC
+./hss/i105j182k4_0_hss.dat
+4 105 182 1 COPC
+./hss/i105j231k6_0_hss.dat
+6 105 231 1 COPC
+./hss/i105j232k6_0_hss.dat
+6 105 232 1 COPC
+./hss/i105j233k7_0_hss.dat
+7 105 233 1 COPC
+./hss/i105j234k7_0_hss.dat
+7 105 234 1 COPC
+./hss/i105j235k7_0_hss.dat
+7 105 235 1 COPC
+./hss/i105j236k7_0_hss.dat
+7 105 236 1 COPC
+./hss/i105j237k7_0_hss.dat
+7 105 237 1 COPC
+./hss/i105j238k7_0_hss.dat
+7 105 238 1 COPC
+./hss/i105j239k7_0_hss.dat
+7 105 239 1 COPC
+./hss/i105j240k7_0_hss.dat
+7 105 240 1 COPC
+./hss/i105j241k7_0_hss.dat
+7 105 241 1 COPC
+./hss/i105j242k7_0_hss.dat
+7 105 242 1 COPC
+./hss/i105j243k7_0_hss.dat
+7 105 243 1 COPC
+./hss/i105j244k7_0_hss.dat
+7 105 244 1 COPC
+./hss/i105j245k7_0_hss.dat
+7 105 245 1 COPC
+./hss/i105j246k7_0_hss.dat
+7 105 246 1 COPC
+./hss/i105j247k7_0_hss.dat
+7 105 247 1 COPC
+./hss/i105j248k7_0_hss.dat
+7 105 248 1 COPC
+./hss/i105j49k3_0_hss.dat
+3 105 49 1 COPC
+./hss/i105j50k3_0_hss.dat
+3 105 50 1 COPC
+./hss/i105j55k3_0_hss.dat
+3 105 55 1 COPC
+./hss/i105j56k3_0_hss.dat
+3 105 56 1 COPC
+./hss/i105j57k3_0_hss.dat
+3 105 57 1 COPC
+./hss/i105j58k3_0_hss.dat
+3 105 58 1 COPC
+./hss/i106j179k4_0_hss.dat
+4 106 179 1 COPC
+./hss/i106j180k4_0_hss.dat
+4 106 180 1 COPC
+./hss/i106j181k4_0_hss.dat
+4 106 181 1 COPC
+./hss/i106j182k4_0_hss.dat
+4 106 182 1 COPC
+./hss/i106j231k6_0_hss.dat
+6 106 231 1 COPC
+./hss/i106j232k6_0_hss.dat
+6 106 232 1 COPC
+./hss/i106j233k7_0_hss.dat
+7 106 233 1 COPC
+./hss/i106j234k7_0_hss.dat
+7 106 234 1 COPC
+./hss/i106j235k7_0_hss.dat
+7 106 235 1 COPC
+./hss/i106j236k7_0_hss.dat
+7 106 236 1 COPC
+./hss/i106j237k7_0_hss.dat
+7 106 237 1 COPC
+./hss/i106j238k7_0_hss.dat
+7 106 238 1 COPC
+./hss/i106j239k7_0_hss.dat
+7 106 239 1 COPC
+./hss/i106j240k7_0_hss.dat
+7 106 240 1 COPC
+./hss/i106j241k7_0_hss.dat
+7 106 241 1 COPC
+./hss/i106j242k7_0_hss.dat
+7 106 242 1 COPC
+./hss/i106j243k7_0_hss.dat
+7 106 243 1 COPC
+./hss/i106j244k7_0_hss.dat
+7 106 244 1 COPC
+./hss/i106j245k7_0_hss.dat
+7 106 245 1 COPC
+./hss/i106j246k7_0_hss.dat
+7 106 246 1 COPC
+./hss/i106j247k7_0_hss.dat
+7 106 247 1 COPC
+./hss/i106j248k7_0_hss.dat
+7 106 248 1 COPC
+./hss/i106j49k3_0_hss.dat
+3 106 49 1 COPC
+./hss/i106j50k3_0_hss.dat
+3 106 50 1 COPC
+./hss/i106j55k3_0_hss.dat
+3 106 55 1 COPC
+./hss/i106j56k3_0_hss.dat
+3 106 56 1 COPC
+./hss/i106j57k3_0_hss.dat
+3 106 57 1 COPC
+./hss/i106j58k3_0_hss.dat
+3 106 58 1 COPC
+./hss/i107j231k6_0_hss.dat
+6 107 231 1 COPC
+./hss/i107j232k6_0_hss.dat
+6 107 232 1 COPC
+./hss/i107j233k7_0_hss.dat
+7 107 233 1 COPC
+./hss/i107j234k7_0_hss.dat
+7 107 234 1 COPC
+./hss/i107j235k7_0_hss.dat
+7 107 235 1 COPC
+./hss/i107j236k7_0_hss.dat
+7 107 236 1 COPC
+./hss/i107j237k7_0_hss.dat
+7 107 237 1 COPC
+./hss/i107j238k7_0_hss.dat
+7 107 238 1 COPC
+./hss/i107j239k7_0_hss.dat
+7 107 239 1 COPC
+./hss/i107j240k7_0_hss.dat
+7 107 240 1 COPC
+./hss/i107j241k7_0_hss.dat
+7 107 241 1 COPC
+./hss/i107j242k7_0_hss.dat
+7 107 242 1 COPC
+./hss/i107j243k7_0_hss.dat
+7 107 243 1 COPC
+./hss/i107j244k7_0_hss.dat
+7 107 244 1 COPC
+./hss/i107j245k7_0_hss.dat
+7 107 245 1 COPC
+./hss/i107j246k7_0_hss.dat
+7 107 246 1 COPC
+./hss/i107j247k7_0_hss.dat
+7 107 247 1 COPC
+./hss/i107j248k7_0_hss.dat
+7 107 248 1 COPC
+./hss/i107j49k3_0_hss.dat
+3 107 49 1 COPC
+./hss/i107j50k3_0_hss.dat
+3 107 50 1 COPC
+./hss/i107j51k3_0_hss.dat
+3 107 51 1 COPC
+./hss/i107j52k3_0_hss.dat
+3 107 52 1 COPC
+./hss/i108j231k6_0_hss.dat
+6 108 231 1 COPC
+./hss/i108j232k6_0_hss.dat
+6 108 232 1 COPC
+./hss/i108j233k7_0_hss.dat
+7 108 233 1 COPC
+./hss/i108j234k7_0_hss.dat
+7 108 234 1 COPC
+./hss/i108j235k7_0_hss.dat
+7 108 235 1 COPC
+./hss/i108j236k7_0_hss.dat
+7 108 236 1 COPC
+./hss/i108j237k7_0_hss.dat
+7 108 237 1 COPC
+./hss/i108j238k7_0_hss.dat
+7 108 238 1 COPC
+./hss/i108j239k7_0_hss.dat
+7 108 239 1 COPC
+./hss/i108j240k7_0_hss.dat
+7 108 240 1 COPC
+./hss/i108j241k7_0_hss.dat
+7 108 241 1 COPC
+./hss/i108j242k7_0_hss.dat
+7 108 242 1 COPC
+./hss/i108j243k7_0_hss.dat
+7 108 243 1 COPC
+./hss/i108j244k7_0_hss.dat
+7 108 244 1 COPC
+./hss/i108j245k7_0_hss.dat
+7 108 245 1 COPC
+./hss/i108j246k7_0_hss.dat
+7 108 246 1 COPC
+./hss/i108j247k7_0_hss.dat
+7 108 247 1 COPC
+./hss/i108j248k7_0_hss.dat
+7 108 248 1 COPC
+./hss/i108j49k3_0_hss.dat
+3 108 49 1 COPC
+./hss/i108j50k3_0_hss.dat
+3 108 50 1 COPC
+./hss/i108j51k3_0_hss.dat
+3 108 51 1 COPC
+./hss/i108j52k3_0_hss.dat
+3 108 52 1 COPC
+./hss/i109j239k7_0_hss.dat
+7 109 239 1 COPC
+./hss/i109j240k7_0_hss.dat
+7 109 240 1 COPC
+./hss/i109j241k7_0_hss.dat
+7 109 241 1 COPC
+./hss/i109j242k7_0_hss.dat
+7 109 242 1 COPC
+./hss/i109j243k7_0_hss.dat
+7 109 243 1 COPC
+./hss/i109j244k7_0_hss.dat
+7 109 244 1 COPC
+./hss/i109j245k7_0_hss.dat
+7 109 245 1 COPC
+./hss/i109j246k7_0_hss.dat
+7 109 246 1 COPC
+./hss/i109j247k7_0_hss.dat
+7 109 247 1 COPC
+./hss/i109j248k7_0_hss.dat
+7 109 248 1 COPC
+./hss/i110j239k7_0_hss.dat
+7 110 239 1 COPC
+./hss/i110j240k7_0_hss.dat
+7 110 240 1 COPC
+./hss/i110j241k7_0_hss.dat
+7 110 241 1 COPC
+./hss/i110j242k7_0_hss.dat
+7 110 242 1 COPC
+./hss/i110j243k7_0_hss.dat
+7 110 243 1 COPC
+./hss/i110j244k7_0_hss.dat
+7 110 244 1 COPC
+./hss/i110j245k7_0_hss.dat
+7 110 245 1 COPC
+./hss/i110j246k7_0_hss.dat
+7 110 246 1 COPC
+./hss/i110j247k7_0_hss.dat
+7 110 247 1 COPC
+./hss/i110j248k7_0_hss.dat
+7 110 248 1 COPC
+./hss/i111j173k5_0_hss.dat
+5 111 173 1 COPC
+./hss/i111j174k5_0_hss.dat
+5 111 174 1 COPC
+./hss/i111j175k5_0_hss.dat
+5 111 175 1 COPC
+./hss/i111j176k5_0_hss.dat
+5 111 176 1 COPC
+./hss/i111j197k3_0_hss.dat
+3 111 197 1 COPC
+./hss/i111j198k3_0_hss.dat
+3 111 198 1 COPC
+./hss/i111j243k7_0_hss.dat
+7 111 243 1 COPC
+./hss/i111j244k7_0_hss.dat
+7 111 244 1 COPC
+./hss/i111j245k7_0_hss.dat
+7 111 245 1 COPC
+./hss/i111j246k7_0_hss.dat
+7 111 246 1 COPC
+./hss/i111j247k7_0_hss.dat
+7 111 247 1 COPC
+./hss/i111j248k7_0_hss.dat
+7 111 248 1 COPC
+./hss/i112j173k5_0_hss.dat
+5 112 173 1 COPC
+./hss/i112j174k5_0_hss.dat
+5 112 174 1 COPC
+./hss/i112j175k5_0_hss.dat
+5 112 175 1 COPC
+./hss/i112j176k5_0_hss.dat
+5 112 176 1 COPC
+./hss/i112j197k3_0_hss.dat
+3 112 197 1 COPC
+./hss/i112j198k3_0_hss.dat
+3 112 198 1 COPC
+./hss/i112j243k7_0_hss.dat
+7 112 243 1 COPC
+./hss/i112j244k7_0_hss.dat
+7 112 244 1 COPC
+./hss/i112j245k7_0_hss.dat
+7 112 245 1 COPC
+./hss/i112j246k7_0_hss.dat
+7 112 246 1 COPC
+./hss/i112j247k7_0_hss.dat
+7 112 247 1 COPC
+./hss/i112j248k7_0_hss.dat
+7 112 248 1 COPC
+./hss/i113j173k4_0_hss.dat
+4 113 173 1 COPC
+./hss/i113j174k4_0_hss.dat
+4 113 174 1 COPC
+./hss/i113j175k5_0_hss.dat
+5 113 175 1 COPC
+./hss/i113j176k5_0_hss.dat
+5 113 176 1 COPC
+./hss/i113j197k3_0_hss.dat
+3 113 197 1 COPC
+./hss/i113j198k3_0_hss.dat
+3 113 198 1 COPC
+./hss/i114j173k4_0_hss.dat
+4 114 173 1 COPC
+./hss/i114j174k4_0_hss.dat
+4 114 174 1 COPC
+./hss/i114j175k5_0_hss.dat
+5 114 175 1 COPC
+./hss/i114j176k5_0_hss.dat
+5 114 176 1 COPC
+./hss/i114j197k3_0_hss.dat
+3 114 197 1 COPC
+./hss/i114j198k3_0_hss.dat
+3 114 198 1 COPC
+./hss/i121j35k3_0_hss.dat
+3 121 35 1 COPC
+./hss/i121j36k3_0_hss.dat
+3 121 36 1 COPC
+./hss/i122j35k3_0_hss.dat
+3 122 35 1 COPC
+./hss/i122j36k3_0_hss.dat
+3 122 36 1 COPC
+./hss/i123j35k3_0_hss.dat
+3 123 35 1 COPC
+./hss/i123j36k3_0_hss.dat
+3 123 36 1 COPC
+./hss/i124j35k3_0_hss.dat
+3 124 35 1 COPC
+./hss/i124j36k3_0_hss.dat
+3 124 36 1 COPC
+./hss/i129j205k3_0_hss.dat
+3 129 205 1 COPC
+./hss/i129j206k3_0_hss.dat
+3 129 206 1 COPC
+./hss/i130j205k3_0_hss.dat
+3 130 205 1 COPC
+./hss/i130j206k3_0_hss.dat
+3 130 206 1 COPC
+./hss/i131j203k3_0_hss.dat
+3 131 203 1 COPC
+./hss/i131j204k3_0_hss.dat
+3 131 204 1 COPC
+./hss/i131j205k3_0_hss.dat
+3 131 205 1 COPC
+./hss/i131j206k3_0_hss.dat
+3 131 206 1 COPC
+./hss/i132j203k3_0_hss.dat
+3 132 203 1 COPC
+./hss/i132j204k3_0_hss.dat
+3 132 204 1 COPC
+./hss/i132j205k3_0_hss.dat
+3 132 205 1 COPC
+./hss/i132j206k3_0_hss.dat
+3 132 206 1 COPC
+./hss/i137j55k3_0_hss.dat
+3 137 55 1 COPC
+./hss/i137j56k3_0_hss.dat
+3 137 56 1 COPC
+./hss/i138j55k3_0_hss.dat
+3 138 55 1 COPC
+./hss/i138j56k3_0_hss.dat
+3 138 56 1 COPC
+./hss/i139j55k3_0_hss.dat
+3 139 55 1 COPC
+./hss/i139j56k3_0_hss.dat
+3 139 56 1 COPC
+./hss/i140j55k3_0_hss.dat
+3 140 55 1 COPC
+./hss/i140j56k3_0_hss.dat
+3 140 56 1 COPC

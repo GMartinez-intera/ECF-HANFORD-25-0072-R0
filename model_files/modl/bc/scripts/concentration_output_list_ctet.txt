@@ -1,0 +1,2 @@
+Path,Breaks,Label
+./base/tran/nsbs/ctet/mod2tec,"0,3.4,100,500,1000,1E19,1E20","Carbon Tetrachloride"

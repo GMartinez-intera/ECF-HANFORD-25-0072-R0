@@ -1,0 +1,86 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Nov 17 12:14:17 2017
+
+@author: JLopez
+"""
+
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Oct 19 11:15:16 2017
+
+@author: jlopez
+"""
+
+import arcpy
+from arcpy import env 
+import shutil
+import time
+import os
+import pandas as pd
+working_dir = "C:/CPCCO/TOR-050/CIE_Sensitivity/results"
+conc_list = pd.read_table(str(working_dir)+ "/concentration_output_list_ctet.txt",sep=',')
+
+mxd = arcpy.mapping.MapDocument("CURRENT")  
+
+#working directory 
+
+yearText = arcpy.mapping.ListLayoutElements(mxd, "TEXT_ELEMENT","Year_Text")[0]
+
+sim_index = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137]
+sim_year = [20240101,20250101,20260101,20270101,20280101,20290101,20300101,20310101,20320101,20330101,20340101,20350101,20360101,20370101,20380101,20390101,20400101,20410101,20420101,20430101,20440101,20450101,20460101,20470101,20480101,20490101,20500101,20510101,20520101,20530101,20540101,20550101,20560101,20570101,20580101,20590101,20600101,20610101,20620101,20630101,20640101,20650101,20660101,20670101,20680101,20690101,20700101,20710101,20720101,20730101,20740101,20750101,20760101,20770101,20780101,20790101,20800101,20810101,20820101,20830101,20840101,20850101,20860101,20870101,20880101,20890101,20900101,20910101,20920101,20930101,20940101,20950101,20960101,20970101,20980101,20990101,21000101,21060101,21160101,21260101,21350101,21360101,21460101,21510101,21560101,21660101,21760101,22010101,22260101,22510101,22760101,23010101,23260101,23510101,23760101,24010101,24260101,24510101,24760101,24940101,25010101,25170101,25200101,25210101,25250101,25260101,25270101,25290101,25300101,25330101,25350101,25430101,25500101,25510101,25520101,25700101,25760101,26010101,26260101,26510101,26760101,27010101,27260101,27510101,27760101,28010101,28260101,28510101,28760101,29010101,29260101,29510101,29760101,30010101,30260101,30510101,30710101]
+
+h = 4
+i = 5
+j = 0
+x = 0
+df = arcpy.mapping.ListDataFrames(mxd)[0]
+FeatLayer = arcpy.mapping.ListLayers(mxd, '', df)[h]
+numPaths = 5
+for p, rows in conc_list.iterrows(): 
+      id_B = rows['Path']
+      name_B = rows['Label']
+      clev = rows['Breaks'].split(',')
+
+      newPath = working_dir + "/" + id_B  
+      newPath2 = working_dir + "/" + id_B + "/png2" 
+      #newPath2 = working_dir + "\\" + id_B[x]  + "\\mod2tec\\"
+      env.workspace=newPath2  #Set the current working envorment to the file path
+      currentWorkspace = env.workspace
+      arcpy.env.overWriteOutPut = True 
+      
+      currentElement = id_B  
+      print("Current element: " + currentElement)
+      
+      #setting map extent
+      print("Current element: " + currentElement)
+      FeatLayer.name = name_B 
+      classLabels = []
+      
+      classLabels = [("{:,}".format(0.0) + " - " + "{:,}".format(float(clev[1]))),
+                     ("{:,}".format(float(clev[1])) + " - " +  "{:,}".format(float(clev[2]))),
+                     ("{:,}".format(float(clev[2])) + " - " +  "{:,}".format(float(clev[3]))),
+                     ("{:,}".format(float(clev[3])) + " - " +  "{:,}".format(float(clev[4]))),
+                     (">" +  "{:,}".format(float(clev[4])))]
+      print("Current element: " + currentElement)
+      FeatLayer.symbology.classBreakLabels = classLabels
+      FeatLayer.symbology.classLabels = classLabels
+      
+      print("Labels have changed")
+      ddd=0
+      for txt in sim_index:
+          print (id_B + ":" + str(txt))
+          
+          SymbologyLayer = arcpy.mapping.ListLayers(mxd, '', df)[i]
+          theFName = "out_cnc__" + '{:04}'.format(txt) + ".png"        
+          SymbologyLayer.replaceDataSource(currentWorkspace, "RASTER_WORKSPACE",theFName)
+          
+          #Changes the elements in the map to this 
+          yearText.text = "Calendar Year: " + str(sim_year[ddd])[0:4]
+          arcpy.RefreshActiveView()
+          PNGPath = newPath + "/STRAT_SIM_" + '{:05}'.format(int(str(sim_year[ddd])[0:4])) + ".png"
+          print("Out Put file: " + str(PNGPath))
+          arcpy.mapping.ExportToPNG(mxd,PNGPath,resolution=200)
+          ddd = ddd+1
+      x=x+1 
+

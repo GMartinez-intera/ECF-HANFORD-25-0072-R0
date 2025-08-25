@@ -1,0 +1,71 @@
+#
+# MT3DMS Name file for test case EIS -1 is advection, dispersion, radioactive decay, no sorption
+#
+
+# Standard output file
+
+LIST           0  P2RGWM.m3d
+
+# Transport package input files
+
+# read initial concentration from external files
+BTN           11 ./P2RGWM.btn MUTDRY
+ADV            0 ./P2RGWM.adv
+DSP           12 ./P2RGWM.dsp
+SSM            0 ./P2RGWM.ssm
+#HSS            0 ./P2RGWM.hss
+RCT            0 ./P2RGWM.rct
+GCG            0 ./P2RGWM.gcg
+CTS            6 ./P2RGWM.cts
+
+# Flow-Transport Link input file
+
+FTL            0 ./P2RGWM.ftl 
+TSO           14 ./P2RGWM.TSO         
+
+
+DATA(BINARY) 201 P2RGWM.ucn
+DATA         401 P2RGWM.obs
+DATA         601 P2RGWM.mas
+DATA          17 P2RGWM.cnf
+DATA 50 ./top1.ref 
+DATA 51 ./thk1.ref 
+DATA 52 ./thk2.ref 
+DATA 53 ./thk3.ref 
+DATA 54 ./thk4.ref 
+DATA 55 ./thk5.ref 
+DATA 56 ./thk6.ref 
+DATA 57 ./thk7.ref 
+DATA 58 ./thk8.ref 
+DATA 61 ./ibnd1.inf 
+DATA 62 ./ibnd2.inf 
+DATA 63 ./ibnd3.inf 
+DATA 64 ./ibnd4.inf 
+DATA 65 ./ibnd5.inf 
+DATA 66 ./ibnd6.inf 
+DATA 67 ./ibnd7.inf 
+DATA 68 ./ibnd8.inf 
+DATA 71 ic_l1.ref  
+DATA 72 ic_l2.ref  
+DATA 73 ic_l3.ref  
+DATA 74 ic_l4.ref 
+DATA 75 ic_l5.ref 
+DATA 76 ic_l6.ref 
+DATA 77 ic_l7.ref 
+DATA 78 ic_l8.ref 
+DATA 81 ./bd1.ref
+DATA 82 ./bd2.ref
+DATA 83 ./bd3.ref
+DATA 84 ./bd4.ref
+DATA 85 ./bd5.ref
+DATA 86 ./bd6.ref
+DATA 87 ./bd7.ref
+DATA 88 ./bd8.ref
+DATA 41 ./ep1.ref
+DATA 42 ./ep2.ref
+DATA 43 ./ep3.ref
+DATA 44 ./ep4.ref
+DATA 45 ./ep5.ref
+DATA 46 ./ep6.ref
+DATA 47 ./ep7.ref
+DATA 48 ./ep8.ref

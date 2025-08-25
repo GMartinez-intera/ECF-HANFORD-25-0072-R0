@@ -1,0 +1,2 @@
+Path,scn,COC,Zone_File,Zone_Num,Stat,Chart_Num,Type,Thk,DWS,units,color,Label,divider,axs
+../base/tran/nsbs/tc99/mod2tec,Baseline,tc99,AR,1,9,1,1,2,3.4,"Ci",blue ,"Technetium-99",1.0e+12,1100
