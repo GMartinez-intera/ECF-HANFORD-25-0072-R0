@@ -1,0 +1,37 @@
+python run_realization.py sl_a zp-1 127 sl_a 25202.0 > sl_a.log &
+python run_realization.py sl_b zp-1 246 sl_b 25202.0 > sl_b.log &
+python run_realization.py sl_c zp-1 351 sl_c 25202.0 > sl_c.log &
+python run_realization.py sl_d zp-1 62  sl_d 25202.0 > sl_d.log &
+python run_realization.py sl_e zp-1 320 sl_e 25202.0 > sl_e.log &
+python run_realization.py s1_a zp-1 127 sl_a 25202.0 > s1_a.log &
+python run_realization.py s1_b zp-1 246 sl_b 25202.0 > s1_b.log &
+python run_realization.py s1_c zp-1 351 sl_c 25202.0 > s1_c.log &
+python run_realization.py s1_d zp-1 62  sl_d 25202.0 > s1_d.log &
+python run_realization.py s1_e zp-1 320 sl_e 25202.0 > s1_e.log &
+python run_realization.py s2_a zp-1 127 sl_a 25202.0 > s2_a.log &
+python run_realization.py s2_b zp-1 246 sl_b 25202.0 > s2_b.log &
+python run_realization.py s2_c zp-1 351 sl_c 25202.0 > s2_c.log &
+python run_realization.py s2_d zp-1 62  sl_d 25202.0 > s2_d.log &
+python run_realization.py s2_e zp-1 320 sl_e 25202.0 > s2_e.log &
+python run_realization.py s3_a zp-1 127 sl_a 25202.0 > s3_a.log &
+python run_realization.py s3_b zp-1 246 sl_b 25202.0 > s3_b.log &
+python run_realization.py s3_c zp-1 351 sl_c 25202.0 > s3_c.log &
+python run_realization.py s3_d zp-1 62  sl_d 25202.0 > s3_d.log &
+python run_realization.py s3_e zp-1 320 sl_e 25202.0 > s3_e.log &
+python run_realization.py sh_a zp-1 127 sh_a 25202.0 > sh_a.log &
+python run_realization.py sh_b zp-1 246 sh_b 25202.0 > sh_b.log &
+python run_realization.py sh_c zp-1 351 sh_c 25202.0 > sh_c.log &
+python run_realization.py sh_d zp-1 62  sh_d 25202.0 > sh_d.log &
+python run_realization.py sh_e zp-1 320 sh_e 25202.0 > sh_e.log &
+python run_realization.py mf_a zp-1 127 mf_a 25202.0 > mf_a.log &
+python run_realization.py mf_b zp-1 246 mf_b 25202.0 > mf_b.log &
+python run_realization.py mf_c zp-1 351 mf_c 25202.0 > mf_c.log &
+python run_realization.py mf_d zp-1 62  mf_d 25202.0 > mf_d.log &
+python run_realization.py mf_e zp-1 320 mf_e 25202.0 > mf_e.log &
+python run_realization.py io_a zp-1 127 io_a 25202.0 > io_a.log &
+python run_realization.py io_b zp-1 246 io_b 25202.0 > io_b.log &
+python run_realization.py io_c zp-1 351 io_c 25202.0 > io_c.log &
+python run_realization.py io_d zp-1 62  io_d 25202.0 > io_d.log &
+python run_realization.py io_e zp-1 320 io_e 25202.0 > io_e.log &
+
+
