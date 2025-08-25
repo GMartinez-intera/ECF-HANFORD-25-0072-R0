@@ -1,0 +1,40 @@
+# --- PyCharm / IntelliJ ---
+.idea/
+*.iml
+
+# --- Python cache / build ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.build/
+dist/
+build/
+*.egg-info/
+
+# --- Python/Virtual envs ---
+gmdsi
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS clutter ---
+.DS_Store
+Thumbs.db
+
+# -- Notepads backups --
+*.bak
+
+# --- Modflow outputs to ignore ---
+*.ftl
+*.ucn
+*.cbb
+*.hds
+*.UCN
+*.m3d
+*.lst
+*.log
+*.out

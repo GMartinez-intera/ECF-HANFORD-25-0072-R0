@@ -1,0 +1,6 @@
+* text=auto
+*.ftl binary
+*.ucn binary
+*.UCN binary
+*.cbb binary
+*.hds binary
