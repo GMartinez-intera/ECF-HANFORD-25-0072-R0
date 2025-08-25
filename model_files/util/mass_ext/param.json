@@ -1,0 +1,89 @@
+{
+	"MODFLOW_DIR": "../../flow",
+	"MODFLOW_NAME": "P2Wv9.1_dis.nam",
+	"MT3D_DIR": "../",
+	"PLOT_DIR": "./",
+	"MT3D_NAME": "P2RGWM.nam",
+	"OUT_FILE_NAME": "P2Wv9.1.BYND_out",
+	"UCN_DIR": "../",
+	"UCN_FILE_NAME": "P2RGWM.ucn",
+	"HDS_FILE_NAME": "P2Wv9.1.hds",
+
+	"flowPlots": true,
+	"totalMassExtractedPlots": true,
+	"perLayerPlots": true,
+	"AllLayersPlots": true,
+	"cumulativeMassPlots": true,
+
+	"eachWell": false,
+
+	"totalMassPlots": true,
+	"start_date": "01/01/2012",
+	"end_date": "01/01/2028",
+	"conversion_factor": 1e9,
+	"mass_units": "kg",
+
+	"grouping": true,
+
+	"wellGroup":[
+		{
+			"groupname": "Hot Spot",
+			"wells":[
+				"299-W12-2",
+				"299-W12-4",
+				"299-W12-3",
+				"299-W14-30",
+				"299-W14-31"
+			]
+		},
+		{
+
+			"groupname": "200-West",
+			"wells":[
+				"299-W19-113",
+				"299-W19-114",
+				"299-W19-125",
+				"299-W22-90",
+				"299-W22-91",
+				"299-W22-92",
+				"299-W19-123",
+				"299-W19-134",
+				"299-W11-106",
+				"299-W11-107",
+				"299-W11-49",
+				"299-W11-50",
+				"299-W11-90",
+				"299-W11-92",
+				"299-W11-96",
+				"299-W11-97",
+				"299-W12-2",
+				"299-W12-3",
+				"299-W12-4",
+				"299-W12-5",
+				"299-W13-5",
+				"299-W14-20",
+				"299-W14-21",
+				"299-W14-22",
+				"299-W14-28",
+				"299-W14-29",
+				"299-W14-30",
+				"299-W14-31",
+				"299-W14-32",
+				"299-W14-73",
+				"299-W14-74",
+				"299-W14-75",
+				"299-W15-225",
+				"299-W17-2",
+				"299-W17-3",
+				"299-W19-111",
+				"299-W5-1",
+				"299-W6-15",
+				"699-40-70A",
+				"699-48-70"
+			]
+		}
+
+	]
+
+
+}
