@@ -1,0 +1,36 @@
+         1         1         2         0
+      2284         1         (232E15.6)        -1 #rhob_layer_0
+      2285         1         (232E15.6)        -1 #rhob_layer_1
+      2286         1         (232E15.6)        -1 #rhob_layer_2
+      2287         1         (232E15.6)        -1 #rhob_layer_3
+      2288         1         (232E15.6)        -1 #rhob_layer_4
+      2289         1         (232E15.6)        -1 #rhob_layer_5
+      2290         1         (232E15.6)        -1 #rhob_layer_6
+      2291         1         (232E15.6)        -1 #sp11_layer_0
+      2292         1         (232E15.6)        -1 #sp11_layer_1
+      2293         1         (232E15.6)        -1 #sp11_layer_2
+      2294         1         (232E15.6)        -1 #sp11_layer_3
+      2295         1         (232E15.6)        -1 #sp11_layer_4
+      2296         1         (232E15.6)        -1 #sp11_layer_5
+      2297         1         (232E15.6)        -1 #sp11_layer_6
+      2298         1         (232E15.6)        -1 #sp21_layer_0
+      2299         1         (232E15.6)        -1 #sp21_layer_1
+      2300         1         (232E15.6)        -1 #sp21_layer_2
+      2301         1         (232E15.6)        -1 #sp21_layer_3
+      2302         1         (232E15.6)        -1 #sp21_layer_4
+      2303         1         (232E15.6)        -1 #sp21_layer_5
+      2304         1         (232E15.6)        -1 #sp21_layer_6
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 1
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 2
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 3
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 4
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 5
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 6
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 7
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 1
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 2
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 3
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 4
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 5
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 6
+         0 3.010E-06(10E12.4)                   -1                # DECAY RATE LAYER 7

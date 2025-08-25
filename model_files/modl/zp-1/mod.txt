@@ -1,0 +1,31 @@
+# MOD2TEC FILES
+
+ln -sf ../../../../../../settings.fig ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../../../settings.fig ./sims/$cn/tran/mod2tec/.
+ln -sf /data/projects/cpcco/src/pest/gwutils/many2tim_d.x ./sims/$cn/flow/mod2tec/.
+ln -sf /data/projects/cpcco/src/pest/gwutils/mod2hyd_d.x ./sims/$cn/flow/mod2tec/.
+ln -sf /data/projects/cpcco/src/pest/gwutils/mod2hyd_d.x ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/P2Rv9.1_SW.spc ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/P2Rv9.1_2W.spc ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/P2Rv9.1_SW.spc ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/P2Rv9.1_2W.spc ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/many2tim_d.in ./sims/$cn/flow/mod2tec/.
+ln -sf ../P2Wv9.1.hds ./sims/$cn/flow/mod2tec/P2R.hds
+ln -sf ../P2RGWM.ucn ./sims/$cn/tran/mod2tec/P2R.ucn
+ln -sf ../../../../comm/mod2tec/mod2hyd_hds_zp1.in ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/mod2hyd_hds_ext.in ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/mod2hyd_cnc_zp1.in ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/mod2hyd_cnc_ext.in ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/2W.crd ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/2W.crd ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/2W_InjExt.crd ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/2W_InjExt.crd ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/Extraction_WELL_Screen_Info.txt ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/Monitoring_WELL_Screen_Info.txt ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/Extraction_WELL_Screen_Info.txt ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/Monitoring_WELL_Screen_Info.txt ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/getSimEquiv_2W_ext.pl ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/getSimEquiv_2W_mon.pl ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/getSimEquiv_2W_ext.pl ./sims/$cn/tran/mod2tec/.
+ln -sf ../../../../comm/mod2tec/getSimEquiv_2W_mon.pl ./sims/$cn/tran/mod2tec/.
+

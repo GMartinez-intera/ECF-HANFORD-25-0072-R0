@@ -1,0 +1,8 @@
+# MOD2TEC FILES
+
+ln -sf ../../../../../../settings.fig ./sims/$cn/flow/mod2tec/.
+ln -sf /data/projects/cpcco/app/tor-055/util/many2tim_d.x ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/flow/geo_/P2Rv9.1_SW.spc ./sims/$cn/flow/mod2tec/.
+ln -sf ../../../../comm/mod2tec/many2tim_d.in ./sims/$cn/flow/mod2tec/.
+ln -sf ../P2Rv9.1.hds ./sims/$cn/flow/mod2tec/P2R.hds
+
