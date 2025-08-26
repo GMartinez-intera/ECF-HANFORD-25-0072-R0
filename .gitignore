@@ -34,7 +34,10 @@ Thumbs.db
 *.cbb
 *.hds
 *.UCN
+*.CTO
 *.m3d
 *.lst
 *.log
 *.out
+*.chk
+*.ocn
