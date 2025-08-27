@@ -6,7 +6,7 @@ OUT="./backups/${DIR}_exceptlarge_$(date +%F).tar.gz"
 mkdir -p ./backups
 
 # patterns to exclude (suffixes), including multi-dot ones
-patterns=( ".ftl" ".cbb" ".ucn" ".UCN" ".hds" ".m3d" ".log" ".tar.gz" ".zip"  ".lst")
+patterns=( ".ftl" ".cbb" ".ucn" ".UCN" ".hds" ".m3d" ".log" ".tar.gz" ".zip"  ".lst" ".CTO")
 
 # Build the find expression: keep symlinks and directories;
 # include only regular files that DON'T match excluded patterns
