@@ -35,16 +35,18 @@ echo "[`date '+%Y-%m-%d %H:%M:%S'`] Executing run_generate_chd.sh" >> "$LOGFILE"
 
 cd .. || exit 1
 
-echo ""
-echo "[`date '+%Y-%m-%d %H:%M:%S'`] Create initial heads" >> "$LOGFILE"
-echo ""
+#echo ""
+#echo "[`date '+%Y-%m-%d %H:%M:%S'`] Create initial heads" >> "$LOGFILE"
+#echo ""
 
-python srt_heads3.py
+#python srt_heads3.py
 
-echo ""
-echo "[`date '+%Y-%m-%d %H:%M:%S'`] Initial heads processed v3" >> "$LOGFILE"
-echo "See log run_srt_heads.log"
-echo ""
+#echo ""
+#echo "[`date '+%Y-%m-%d %H:%M:%S'`] Initial heads processed v3" >> "$LOGFILE"
+#echo "See log run_srt_heads.log"
+#echo ""
+
+echo "Use start heads from ECF-200BC1-24-0049-R0"
 
 
 # Run the flow model from within the flow folder
