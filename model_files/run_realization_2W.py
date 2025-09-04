@@ -66,10 +66,10 @@ nrow = 133
 nlay = 8
 nhsu = 7
 
-run_sw_flow_pred = False
-run_create_strt_h_2w = False
-run_create_chd_2w = False
-run_2w_flow = False
+run_sw_flow_pred = True
+run_create_strt_h_2w = True
+run_create_chd_2w = True
+run_2w_flow = True
 run_2w_cts = True
 run_2w_tran = True
 
